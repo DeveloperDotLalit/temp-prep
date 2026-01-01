@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Phase 4: Elite Architecture – Topic 2: Hilt Testing Strategy
-parent: Phase4
+parent: Dependency Injection: Phase4
 nav_order: 4
 grand_parent: Dependency Injection
 ---

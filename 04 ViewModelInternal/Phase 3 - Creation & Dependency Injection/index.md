@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Phase 3   Creation & Dependency Injection
+title: ViewModel Internals: Phase 3   Creation & Dependency Injection
 parent: ViewModel Internals
 has_children: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Godactivity
-parent: Phase1
+parent: Architecture (MVVM/MVI/Clean): Phase1
 nav_order: 1
 grand_parent: Architecture (MVVM/MVI/Clean)
 ---

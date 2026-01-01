@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Architecture Defense
-parent: Phase7
+parent: Architecture (MVVM/MVI/Clean): Phase7
 nav_order: 1
 grand_parent: Architecture (MVVM/MVI/Clean)
 ---

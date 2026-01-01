@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Viewmodelfactory The Builder Pattern
-parent: Phase 3   Creation & Dependency Injection
+parent: ViewModel Internals: Phase 3   Creation & Dependency Injection
 nav_order: 1
 grand_parent: ViewModel Internals
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Domain Usecases
-parent: Phase2
+parent: Architecture (MVVM/MVI/Clean): Phase2
 nav_order: 3
 grand_parent: Architecture (MVVM/MVI/Clean)
 ---

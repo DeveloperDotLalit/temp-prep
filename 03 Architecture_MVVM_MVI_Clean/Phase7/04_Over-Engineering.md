@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Over Engineering
-parent: Phase7
+parent: Architecture (MVVM/MVI/Clean): Phase7
 nav_order: 4
 grand_parent: Architecture (MVVM/MVI/Clean)
 ---

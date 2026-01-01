@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Trick Questions
-parent: Phase 6   The Interview Gauntlet Qa
+parent: ViewModel Internals: Phase 6   The Interview Gauntlet Qa
 nav_order: 2
 grand_parent: ViewModel Internals
 ---

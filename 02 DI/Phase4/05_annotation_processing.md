@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Phase 4: Elite Architecture – Topic 3: Under the Hood (Compiler & Debugging)
-parent: Phase4
+parent: Dependency Injection: Phase4
 nav_order: 5
 grand_parent: Dependency Injection
 ---

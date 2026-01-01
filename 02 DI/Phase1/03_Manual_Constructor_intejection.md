@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Phase 1: The Fundamentals – Topic 3: Manual Constructor Injection
-parent: Phase1
+parent: Dependency Injection: Phase1
 nav_order: 3
 grand_parent: Dependency Injection
 ---

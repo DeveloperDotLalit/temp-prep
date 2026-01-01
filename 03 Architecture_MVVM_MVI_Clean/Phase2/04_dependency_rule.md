@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dependency Rule
-parent: Phase2
+parent: Architecture (MVVM/MVI/Clean): Phase2
 nav_order: 4
 grand_parent: Architecture (MVVM/MVI/Clean)
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Constructors: Primary vs Secondary
-parent: Phase 2   Object Oriented Kotlin
+parent: Advanced Kotlin: Phase 2   Object Oriented Kotlin
 nav_order: 2
 grand_parent: Advanced Kotlin
 ---

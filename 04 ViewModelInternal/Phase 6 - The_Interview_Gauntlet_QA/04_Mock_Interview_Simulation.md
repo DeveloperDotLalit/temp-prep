@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mock Interview Simulation
-parent: Phase 6   The Interview Gauntlet Qa
+parent: ViewModel Internals: Phase 6   The Interview Gauntlet Qa
 nav_order: 4
 grand_parent: ViewModel Internals
 ---

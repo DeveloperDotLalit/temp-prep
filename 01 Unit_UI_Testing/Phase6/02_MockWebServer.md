@@ -1,7 +1,7 @@
 ---
 layout: default
 title: **Chapter 6: The Elite Level (System & Architecture)**
-parent: Phase6
+parent: Unit & UI Testing: Phase6
 nav_order: 2
 grand_parent: Unit & UI Testing
 ---

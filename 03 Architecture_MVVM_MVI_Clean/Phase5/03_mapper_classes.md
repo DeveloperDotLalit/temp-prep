@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mapper Classes
-parent: Phase5
+parent: Architecture (MVVM/MVI/Clean): Phase5
 nav_order: 3
 grand_parent: Architecture (MVVM/MVI/Clean)
 ---

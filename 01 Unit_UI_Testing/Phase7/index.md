@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Phase7
+title: Unit & UI Testing: Phase7
 parent: Unit & UI Testing
 has_children: true
 ---

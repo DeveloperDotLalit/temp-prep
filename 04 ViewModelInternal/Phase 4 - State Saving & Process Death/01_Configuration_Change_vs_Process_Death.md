@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Configuration Change Vs Process Death
-parent: Phase 4   State Saving & Process Death
+parent: ViewModel Internals: Phase 4   State Saving & Process Death
 nav_order: 1
 grand_parent: ViewModel Internals
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Scenario Memory Leak Trap
-parent: Phase 5   Real World Interview Scenarios
+parent: ViewModel Internals: Phase 5   Real World Interview Scenarios
 nav_order: 1
 grand_parent: ViewModel Internals
 ---

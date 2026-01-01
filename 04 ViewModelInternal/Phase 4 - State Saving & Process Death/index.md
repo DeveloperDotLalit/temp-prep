@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Phase 4   State Saving & Process Death
+title: ViewModel Internals: Phase 4   State Saving & Process Death
 parent: ViewModel Internals
 has_children: true
 ---

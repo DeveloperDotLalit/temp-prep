@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Androidviewmodel Vs Viewmodel
-parent: Phase 3   Creation & Dependency Injection
+parent: ViewModel Internals: Phase 3   Creation & Dependency Injection
 nav_order: 2
 grand_parent: ViewModel Internals
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: **Chapter 2: The Basics (JUnit & Assertions)**
-parent: Phase2
+parent: Unit & UI Testing: Phase2
 nav_order: 3
 grand_parent: Unit & UI Testing
 ---

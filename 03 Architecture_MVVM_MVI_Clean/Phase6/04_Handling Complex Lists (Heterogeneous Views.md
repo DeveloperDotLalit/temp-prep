@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Handling Complex Lists (Heterogeneous Views
-parent: Phase6
+parent: Architecture (MVVM/MVI/Clean): Phase6
 nav_order: 4
 grand_parent: Architecture (MVVM/MVI/Clean)
 ---

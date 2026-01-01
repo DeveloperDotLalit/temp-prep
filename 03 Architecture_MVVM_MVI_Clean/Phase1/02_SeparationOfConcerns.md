@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Separationofconcerns
-parent: Phase1
+parent: Architecture (MVVM/MVI/Clean): Phase1
 nav_order: 2
 grand_parent: Architecture (MVVM/MVI/Clean)
 ---

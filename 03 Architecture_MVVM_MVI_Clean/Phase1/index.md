@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Phase1
+title: Architecture (MVVM/MVI/Clean): Phase1
 parent: Architecture (MVVM/MVI/Clean)
 has_children: true
 ---

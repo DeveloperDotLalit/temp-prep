@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Phase 6   Leetcode Essentials
+title: Advanced Kotlin: Phase 6   Leetcode Essentials
 parent: Advanced Kotlin
 has_children: true
 ---

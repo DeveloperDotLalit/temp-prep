@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mvi Arch
-parent: Phase3
+parent: Architecture (MVVM/MVI/Clean): Phase3
 nav_order: 4
 grand_parent: Architecture (MVVM/MVI/Clean)
 ---

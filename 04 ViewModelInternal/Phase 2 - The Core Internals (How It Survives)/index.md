@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Phase 2   The Core Internals (How It Survives)
+title: ViewModel Internals: Phase 2   The Core Internals (How It Survives)
 parent: ViewModel Internals
 has_children: true
 ---

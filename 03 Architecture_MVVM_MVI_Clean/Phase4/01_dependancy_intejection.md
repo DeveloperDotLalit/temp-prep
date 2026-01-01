@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dependancy Intejection
-parent: Phase4
+parent: Architecture (MVVM/MVI/Clean): Phase4
 nav_order: 1
 grand_parent: Architecture (MVVM/MVI/Clean)
 ---

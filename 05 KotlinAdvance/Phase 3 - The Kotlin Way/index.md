@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Phase 3   The Kotlin Way
+title: Advanced Kotlin: Phase 3   The Kotlin Way
 parent: Advanced Kotlin
 has_children: true
 ---

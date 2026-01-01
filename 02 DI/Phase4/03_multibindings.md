@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Phase 4: Elite Architecture – Topic 1: Multibindings (Plugin Architecture)
-parent: Phase4
+parent: Dependency Injection: Phase4
 nav_order: 3
 grand_parent: Dependency Injection
 ---

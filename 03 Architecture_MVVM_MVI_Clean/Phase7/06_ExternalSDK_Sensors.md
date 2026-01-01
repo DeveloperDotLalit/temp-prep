@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Externalsdk Sensors
-parent: Phase7
+parent: Architecture (MVVM/MVI/Clean): Phase7
 nav_order: 6
 grand_parent: Architecture (MVVM/MVI/Clean)
 ---

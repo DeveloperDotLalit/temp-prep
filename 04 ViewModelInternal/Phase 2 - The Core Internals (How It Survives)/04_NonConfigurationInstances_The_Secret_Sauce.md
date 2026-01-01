@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nonconfigurationinstances The Secret Sauce
-parent: Phase 2   The Core Internals (How It Survives)
+parent: ViewModel Internals: Phase 2   The Core Internals (How It Survives)
 nav_order: 4
 grand_parent: ViewModel Internals
 ---

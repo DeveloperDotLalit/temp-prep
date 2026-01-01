@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Null Safety
-parent: Phase 3   The Kotlin Way
+parent: Advanced Kotlin: Phase 3   The Kotlin Way
 nav_order: 1
 grand_parent: Advanced Kotlin
 ---

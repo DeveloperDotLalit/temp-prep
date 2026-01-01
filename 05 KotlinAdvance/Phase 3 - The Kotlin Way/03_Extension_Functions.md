@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Extension Functions
-parent: Phase 3   The Kotlin Way
+parent: Advanced Kotlin: Phase 3   The Kotlin Way
 nav_order: 3
 grand_parent: Advanced Kotlin
 ---

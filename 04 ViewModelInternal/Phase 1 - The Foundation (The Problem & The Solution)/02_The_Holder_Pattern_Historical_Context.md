@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Holder Pattern Historical Context
-parent: Phase 1   The Foundation (The Problem & The Solution)
+parent: ViewModel Internals: Phase 1   The Foundation (The Problem & The Solution)
 nav_order: 2
 grand_parent: ViewModel Internals
 ---

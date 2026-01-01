@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rapid Fire
-parent: Phase7
+parent: Architecture (MVVM/MVI/Clean): Phase7
 nav_order: 5
 grand_parent: Architecture (MVVM/MVI/Clean)
 ---

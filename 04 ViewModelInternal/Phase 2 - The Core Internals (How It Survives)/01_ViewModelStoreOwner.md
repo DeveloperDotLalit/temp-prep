@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Viewmodelstoreowner
-parent: Phase 2   The Core Internals (How It Survives)
+parent: ViewModel Internals: Phase 2   The Core Internals (How It Survives)
 nav_order: 1
 grand_parent: ViewModel Internals
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mvvm Triangle
-parent: Phase1
+parent: Architecture (MVVM/MVI/Clean): Phase1
 nav_order: 3
 grand_parent: Architecture (MVVM/MVI/Clean)
 ---

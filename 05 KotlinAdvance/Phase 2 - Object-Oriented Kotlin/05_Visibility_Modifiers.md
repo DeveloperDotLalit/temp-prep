@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Visibility Modifiers
-parent: Phase 2   Object Oriented Kotlin
+parent: Advanced Kotlin: Phase 2   Object Oriented Kotlin
 nav_order: 5
 grand_parent: Advanced Kotlin
 ---

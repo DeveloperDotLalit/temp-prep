@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Shared Viewmodels
-parent: Phase6
+parent: Architecture (MVVM/MVI/Clean): Phase6
 nav_order: 2
 grand_parent: Architecture (MVVM/MVI/Clean)
 ---

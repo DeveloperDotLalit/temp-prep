@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Phase 1   The Foundation (The Problem & The Solution)
+title: ViewModel Internals: Phase 1   The Foundation (The Problem & The Solution)
 parent: ViewModel Internals
 has_children: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: **Chapter 7: Jetpack Compose Testing**
-parent: Phase7
+parent: Unit & UI Testing: Phase7
 nav_order: 3
 grand_parent: Unit & UI Testing
 ---

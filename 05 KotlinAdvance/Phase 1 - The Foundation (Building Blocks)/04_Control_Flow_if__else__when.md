@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Control Flow: if / else / when
-parent: Phase 1   The Foundation (Building Blocks)
+parent: Advanced Kotlin: Phase 1   The Foundation (Building Blocks)
 nav_order: 4
 grand_parent: Advanced Kotlin
 ---
