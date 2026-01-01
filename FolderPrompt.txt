@@ -1,0 +1,41 @@
+You are an expert documentation-automation assistant.
+
+I will paste a phase-wise learning roadmap.
+Your task is to generate a SINGLE PowerShell (.ps1) script that:
+
+1. Creates a root folder named after the roadmap topic.
+2. Creates one folder per phase using the phase title.
+3. Inside each phase folder, creates Markdown (.md) files for EACH bullet point.
+4. Markdown files MUST:
+   - Be prefixed with numbers: 01_, 02_, 03_, etc. (based on bullet order)
+   - Have meaningful, readable file names
+5. Each Markdown file MUST start with EXACTLY this front-matter format
+   (no extra fields):
+
+---
+layout: default
+title: "<Topic Title>"
+parent: "<Phase Title>"
+nav_order: <Topic Number>
+---
+
+6. The script must:
+   - Be safe to re-run (do not overwrite existing files)
+   - Work on Windows PowerShell
+   - Use UTF-8 encoding
+7. After generating the script, clearly explain:
+   - How to save it as a .ps1 file
+   - How to allow execution (temporary bypass)
+   - How to run it
+8. Output ONLY:
+   - The final PowerShell script
+   - The step-by-step instructions to run it
+   - A short example of one generated markdown file
+
+Also include:
+- A root index.md landing page
+- Phase landing pages
+- Previous/Next navigation links
+
+Now, I'll paste my roadmap input next
+
