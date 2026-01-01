@@ -3,6 +3,7 @@ layout: default
 title: Godactivity
 parent: Phase1
 nav_order: 1
+grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **God Activities & Tight Coupling**.

@@ -3,6 +3,7 @@ layout: default
 title: Companion Objects
 parent: Phase 3   The Kotlin Way
 nav_order: 5
+grand_parent: Advanced Kotlin
 ---
 
 ﻿---

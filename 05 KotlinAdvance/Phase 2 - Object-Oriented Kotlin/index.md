@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Phase 2   Object Oriented Kotlin
-parent: Advanced
+parent: Advanced Kotlin
 has_children: true
 ---
 

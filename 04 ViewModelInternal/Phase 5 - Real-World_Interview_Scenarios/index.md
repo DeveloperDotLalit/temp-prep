@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Phase 5   Real World Interview Scenarios
-parent: ViewModel
+parent: ViewModel Internals
 has_children: true
 ---
 

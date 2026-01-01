@@ -3,6 +3,7 @@ layout: default
 title: Phase 3: Hilt – Topic 6: Assisted Injection
 parent: Phase4
 nav_order: 2
+grand_parent: Dependency Injection
 ---
 
 Here are the detailed notes for the sixth topic of Phase 3, strictly adhering to the "Book Style" format and the interview summary structure.

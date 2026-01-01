@@ -3,6 +3,7 @@ layout: default
 title: Observables
 parent: Phase3
 nav_order: 2
+grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **Observables (StateFlow / LiveData)**.

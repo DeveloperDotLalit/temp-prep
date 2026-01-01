@@ -3,6 +3,7 @@ layout: default
 title: Singleton Pattern (object)
 parent: Phase 3   The Kotlin Way
 nav_order: 4
+grand_parent: Advanced Kotlin
 ---
 
 ﻿---

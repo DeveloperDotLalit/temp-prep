@@ -3,6 +3,7 @@ layout: default
 title: Separationofconcerns
 parent: Phase1
 nav_order: 2
+grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **Separation of Concerns (SoC)**.

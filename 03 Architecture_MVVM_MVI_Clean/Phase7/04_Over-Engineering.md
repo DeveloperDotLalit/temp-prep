@@ -3,6 +3,7 @@ layout: default
 title: Over Engineering
 parent: Phase7
 nav_order: 4
+grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **The "Over-Engineering" Trap**.

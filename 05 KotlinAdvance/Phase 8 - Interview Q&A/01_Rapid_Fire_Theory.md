@@ -3,6 +3,7 @@ layout: default
 title: Rapid Fire Theory
 parent: Phase 8   Interview Q&A
 nav_order: 1
+grand_parent: Advanced Kotlin
 ---
 
 ﻿---

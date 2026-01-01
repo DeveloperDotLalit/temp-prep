@@ -3,6 +3,7 @@ layout: default
 title: Rapid Fire
 parent: Phase7
 nav_order: 5
+grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **Mock Interview Rapid Fire**.

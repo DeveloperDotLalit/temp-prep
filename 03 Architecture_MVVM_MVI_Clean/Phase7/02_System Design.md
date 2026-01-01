@@ -3,6 +3,7 @@ layout: default
 title: System Design
 parent: Phase7
 nav_order: 2
+grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **System Design: "Design a Search Screen"**.

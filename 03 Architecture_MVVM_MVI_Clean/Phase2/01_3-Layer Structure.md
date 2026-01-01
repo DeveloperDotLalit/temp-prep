@@ -3,6 +3,7 @@ layout: default
 title: 3 Layer Structure
 parent: Phase2
 nav_order: 1
+grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **The 3-Layer Structure (Presentation, Domain, Data)**.

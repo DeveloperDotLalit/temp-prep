@@ -3,6 +3,7 @@ layout: default
 title: Dependency Rule
 parent: Phase2
 nav_order: 4
+grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **The Dependency Rule**.

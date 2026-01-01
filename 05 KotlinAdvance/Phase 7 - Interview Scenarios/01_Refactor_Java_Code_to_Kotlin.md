@@ -3,6 +3,7 @@ layout: default
 title: Refactor Java Code to Kotlin
 parent: Phase 7   Interview Scenarios
 nav_order: 1
+grand_parent: Advanced Kotlin
 ---
 
 ﻿---

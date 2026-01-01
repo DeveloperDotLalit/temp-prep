@@ -3,6 +3,7 @@ layout: default
 title: **Chapter 1: The Conceptual Foundation**
 parent: Phase1
 nav_order: 1
+grand_parent: Unit & UI Testing
 ---
 
 Here are your in-depth study notes for **Chapter 1: The Conceptual Foundation**.

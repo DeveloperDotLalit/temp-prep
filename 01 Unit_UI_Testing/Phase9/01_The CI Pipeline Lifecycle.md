@@ -3,6 +3,7 @@ layout: default
 title: **Chapter 9: CI/CD & Azure DevOps**
 parent: Phase9
 nav_order: 1
+grand_parent: Unit & UI Testing
 ---
 
 Here are your in-depth study notes for **Phase 9, Topic 9.1**.

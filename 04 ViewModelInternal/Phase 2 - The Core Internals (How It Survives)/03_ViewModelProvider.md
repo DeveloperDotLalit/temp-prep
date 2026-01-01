@@ -3,6 +3,7 @@ layout: default
 title: Viewmodelprovider
 parent: Phase 2   The Core Internals (How It Survives)
 nav_order: 3
+grand_parent: ViewModel Internals
 ---
 
 Here are your detailed notes for the third topic of Phase 2.

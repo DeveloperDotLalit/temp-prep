@@ -3,6 +3,7 @@ layout: default
 title: Domain Usecases
 parent: Phase2
 nav_order: 3
+grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **The Domain Layer & Use Cases**.

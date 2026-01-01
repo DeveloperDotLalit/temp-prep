@@ -3,6 +3,7 @@ layout: default
 title: Mvi Arch
 parent: Phase3
 nav_order: 4
+grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **Introduction to MVI (Model-View-Intent)**.

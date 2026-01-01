@@ -3,6 +3,7 @@ layout: default
 title: Shared Viewmodels
 parent: Phase6
 nav_order: 2
+grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **Shared ViewModels (Fragment Communication)**.

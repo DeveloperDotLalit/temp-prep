@@ -3,6 +3,7 @@ layout: default
 title: Dependancy Intejection
 parent: Phase4
 nav_order: 1
+grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **Dependency Injection (DI) Basics (Hilt/Koin)**.

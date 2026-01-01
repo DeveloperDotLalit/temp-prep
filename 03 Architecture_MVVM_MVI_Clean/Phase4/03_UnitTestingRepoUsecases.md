@@ -3,6 +3,7 @@ layout: default
 title: Unittestingrepousecases
 parent: Phase4
 nav_order: 3
+grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **Unit Testing Use Cases & Repositories**.

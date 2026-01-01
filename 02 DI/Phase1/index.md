@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Phase1
-parent: Dependency
+parent: Dependency Injection
 has_children: true
 ---
 

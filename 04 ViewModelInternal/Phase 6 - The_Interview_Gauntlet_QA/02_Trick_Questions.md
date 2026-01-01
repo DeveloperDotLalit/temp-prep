@@ -3,6 +3,7 @@ layout: default
 title: Trick Questions
 parent: Phase 6   The Interview Gauntlet Qa
 nav_order: 2
+grand_parent: ViewModel Internals
 ---
 
 Here are your detailed notes for the second topic of Phase 6.

@@ -3,6 +3,7 @@ layout: default
 title: Deep Dive Explanations
 parent: Phase 8   Interview Q&A
 nav_order: 2
+grand_parent: Advanced Kotlin
 ---
 
 ﻿---

@@ -3,6 +3,7 @@ layout: default
 title: Phase 4: Elite Architecture – Topic 2: Hilt Testing Strategy
 parent: Phase4
 nav_order: 4
+grand_parent: Dependency Injection
 ---
 
 Here are the detailed notes for the second topic of Phase 4, strictly adhering to the "Book Style" format and the interview summary structure.

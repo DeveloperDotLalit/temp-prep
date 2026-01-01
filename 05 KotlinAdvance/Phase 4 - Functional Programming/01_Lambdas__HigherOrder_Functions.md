@@ -3,6 +3,7 @@ layout: default
 title: Lambdas & Higher-Order Functions
 parent: Phase 4   Functional Programming
 nav_order: 1
+grand_parent: Advanced Kotlin
 ---
 
 ﻿---

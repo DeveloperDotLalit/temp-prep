@@ -3,6 +3,7 @@ layout: default
 title: Savedstatehandle
 parent: Phase 4   State Saving & Process Death
 nav_order: 2
+grand_parent: ViewModel Internals
 ---
 
 Here are your detailed notes for the second topic of Phase 4.

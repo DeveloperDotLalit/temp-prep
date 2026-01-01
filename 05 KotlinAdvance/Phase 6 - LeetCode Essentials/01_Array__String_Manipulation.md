@@ -3,6 +3,7 @@ layout: default
 title: Array & String Manipulation
 parent: Phase 6   Leetcode Essentials
 nav_order: 1
+grand_parent: Advanced Kotlin
 ---
 
 ﻿---

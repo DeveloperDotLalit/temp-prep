@@ -3,6 +3,7 @@ layout: default
 title: Mock Interview Simulation
 parent: Phase 6   The Interview Gauntlet Qa
 nav_order: 4
+grand_parent: ViewModel Internals
 ---
 
 Here are your **Mock Interview Simulation** notes. This is your "Cheat Sheet"—a condensed version of everything we’ve covered, designed for rapid review 15 minutes before your interview.

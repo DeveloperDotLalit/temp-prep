@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Phase 7   Interview Scenarios
-parent: Advanced
+parent: Advanced Kotlin
 has_children: true
 ---
 

@@ -3,6 +3,7 @@ layout: default
 title: Ui State Modeling
 parent: Phase3
 nav_order: 3
+grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **UI State Modeling**.

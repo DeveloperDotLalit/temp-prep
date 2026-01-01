@@ -3,6 +3,7 @@ layout: default
 title: Phase 3: Hilt – Topic 1: The Migration (Hilt vs. Dagger)
 parent: Phase3
 nav_order: 1
+grand_parent: Dependency Injection
 ---
 
 Here are the detailed notes for the first topic of Phase 3, strictly adhering to the "Book Style" format and the interview summary structure.

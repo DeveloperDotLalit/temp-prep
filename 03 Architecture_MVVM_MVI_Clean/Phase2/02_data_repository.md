@@ -3,6 +3,7 @@ layout: default
 title: Data Repository
 parent: Phase2
 nav_order: 2
+grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **The Data Layer & Repository Pattern**.

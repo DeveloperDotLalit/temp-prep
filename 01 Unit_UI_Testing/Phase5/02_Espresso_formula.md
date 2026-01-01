@@ -3,6 +3,7 @@ layout: default
 title: **Chapter 5: UI Testing (Espresso)**
 parent: Phase5
 nav_order: 2
+grand_parent: Unit & UI Testing
 ---
 
 Here are your in-depth study notes for **Topic 5.2**.

@@ -3,6 +3,7 @@ layout: default
 title: Variables: val vs var
 parent: Phase 1   The Foundation (Building Blocks)
 nav_order: 1
+grand_parent: Advanced Kotlin
 ---
 
 ﻿---

@@ -3,6 +3,7 @@ layout: default
 title: Viewmodelstore
 parent: Phase 2   The Core Internals (How It Survives)
 nav_order: 2
+grand_parent: ViewModel Internals
 ---
 
 Here are your detailed notes for the second topic of Phase 2.

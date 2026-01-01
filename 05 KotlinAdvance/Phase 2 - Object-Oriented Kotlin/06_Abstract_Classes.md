@@ -3,6 +3,7 @@ layout: default
 title: Abstract Classes
 parent: Phase 2   Object Oriented Kotlin
 nav_order: 6
+grand_parent: Advanced Kotlin
 ---
 
 ﻿---

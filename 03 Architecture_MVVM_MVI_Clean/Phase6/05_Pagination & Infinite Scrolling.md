@@ -3,6 +3,7 @@ layout: default
 title: Pagination & Infinite Scrolling
 parent: Phase6
 nav_order: 5
+grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **Pagination & Infinite Scrolling**.

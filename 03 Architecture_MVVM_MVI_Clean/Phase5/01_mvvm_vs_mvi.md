@@ -3,6 +3,7 @@ layout: default
 title: Mvvm Vs Mvi
 parent: Phase5
 nav_order: 1
+grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **MVVM vs. MVI**.

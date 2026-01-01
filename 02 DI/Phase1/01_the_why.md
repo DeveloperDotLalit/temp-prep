@@ -3,6 +3,7 @@ layout: default
 title: Phase 1: The Fundamentals – Topic 1: The "Why" (Tight vs. Loose Coupling)
 parent: Phase1
 nav_order: 1
+grand_parent: Dependency Injection
 ---
 
 Here are the refined notes for the first topic, crafted in the detailed "Book Style" format we agreed upon.

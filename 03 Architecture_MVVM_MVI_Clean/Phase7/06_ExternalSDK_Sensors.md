@@ -3,6 +3,7 @@ layout: default
 title: Externalsdk Sensors
 parent: Phase7
 nav_order: 6
+grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here is the final set of notes focusing on **Integration Strategy**.

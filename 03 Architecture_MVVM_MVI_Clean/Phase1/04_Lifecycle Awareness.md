@@ -3,6 +3,7 @@ layout: default
 title: Lifecycle Awareness
 parent: Phase1
 nav_order: 4
+grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **Lifecycle Awareness**.

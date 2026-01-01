@@ -3,6 +3,7 @@ layout: default
 title: Architecture Questions
 parent: Phase 6   The Interview Gauntlet Qa
 nav_order: 3
+grand_parent: ViewModel Internals
 ---
 
 Here are your detailed notes for the final topic of Phase 6.

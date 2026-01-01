@@ -3,6 +3,7 @@ layout: default
 title: Collection Operations
 parent: Phase 4   Functional Programming
 nav_order: 4
+grand_parent: Advanced Kotlin
 ---
 
 ﻿---

@@ -3,6 +3,7 @@ layout: default
 title: Dependency Injection Integrations
 parent: Phase 3   Creation & Dependency Injection
 nav_order: 4
+grand_parent: ViewModel Internals
 ---
 
 Here are your detailed notes for the final topic of Phase 3.

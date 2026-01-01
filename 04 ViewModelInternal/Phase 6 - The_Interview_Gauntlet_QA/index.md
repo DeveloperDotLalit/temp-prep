@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Phase 6   The Interview Gauntlet Qa
-parent: ViewModel
+parent: ViewModel Internals
 has_children: true
 ---
 

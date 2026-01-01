@@ -3,6 +3,7 @@ layout: default
 title: The Configuration Change Problem
 parent: Phase 1   The Foundation (The Problem & The Solution)
 nav_order: 1
+grand_parent: ViewModel Internals
 ---
 
 Here are your detailed notes for the first topic of Phase 1.

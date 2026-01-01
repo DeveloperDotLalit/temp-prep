@@ -3,6 +3,7 @@ layout: default
 title: Handling Edge Cases
 parent: Phase5
 nav_order: 2
+grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **Handling Edge Cases**.

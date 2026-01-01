@@ -3,6 +3,7 @@ layout: default
 title: Spotting Code Smells
 parent: Phase7
 nav_order: 3
+grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **Spotting "Code Smells" (The Bad Code Test)**.

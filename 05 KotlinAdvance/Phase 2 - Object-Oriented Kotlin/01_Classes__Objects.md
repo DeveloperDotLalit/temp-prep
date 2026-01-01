@@ -3,6 +3,7 @@ layout: default
 title: Classes & Objects
 parent: Phase 2   Object Oriented Kotlin
 nav_order: 1
+grand_parent: Advanced Kotlin
 ---
 
 ﻿---

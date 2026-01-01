@@ -3,6 +3,7 @@ layout: default
 title: Architecture Defense
 parent: Phase7
 nav_order: 1
+grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **Architecture Defense (MVVM vs. MVP vs. MVC)**.

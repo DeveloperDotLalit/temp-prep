@@ -3,6 +3,7 @@ layout: default
 title: Phase 4: Elite Architecture – Topic 3: Under the Hood (Compiler & Debugging)
 parent: Phase4
 nav_order: 5
+grand_parent: Dependency Injection
 ---
 
 Here are the detailed notes for the final topic of Phase 4, strictly adhering to the "Book Style" format and the interview summary structure.

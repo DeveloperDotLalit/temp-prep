@@ -3,6 +3,7 @@ layout: default
 title: **Chapter 3: Intermediate Unit Testing (Mockk & Architecture)**
 parent: Phase3
 nav_order: 4
+grand_parent: Unit & UI Testing
 ---
 
 Here are your in-depth study notes for **Topic 3.3**.

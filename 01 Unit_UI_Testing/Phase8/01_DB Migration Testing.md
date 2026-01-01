@@ -3,6 +3,7 @@ layout: default
 title: **Chapter 8: Scenario-Based Solutions**
 parent: Phase8
 nav_order: 1
+grand_parent: Unit & UI Testing
 ---
 
 Here are your in-depth study notes for **Phase 8, Scenario 1**.

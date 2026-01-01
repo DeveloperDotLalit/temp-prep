@@ -3,6 +3,7 @@ layout: default
 title: Mvvm Triangle
 parent: Phase1
 nav_order: 3
+grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **The MVVM Triangle (Model - View - ViewModel)**.

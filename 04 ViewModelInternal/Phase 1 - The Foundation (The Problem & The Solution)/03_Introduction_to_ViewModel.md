@@ -3,6 +3,7 @@ layout: default
 title: Introduction To Viewmodel
 parent: Phase 1   The Foundation (The Problem & The Solution)
 nav_order: 3
+grand_parent: ViewModel Internals
 ---
 
 Here are your detailed notes for the third topic of Phase 1.

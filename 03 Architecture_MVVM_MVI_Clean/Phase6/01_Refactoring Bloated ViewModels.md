@@ -3,6 +3,7 @@ layout: default
 title: Refactoring Bloated Viewmodels
 parent: Phase6
 nav_order: 1
+grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **Refactoring Bloated ViewModels**.

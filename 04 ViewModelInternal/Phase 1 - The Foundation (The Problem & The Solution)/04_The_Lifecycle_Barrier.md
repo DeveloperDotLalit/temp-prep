@@ -3,6 +3,7 @@ layout: default
 title: The Lifecycle Barrier
 parent: Phase 1   The Foundation (The Problem & The Solution)
 nav_order: 4
+grand_parent: ViewModel Internals
 ---
 
 Here are your detailed notes for the final topic of Phase 1.
