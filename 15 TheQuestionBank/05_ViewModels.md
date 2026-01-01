@@ -1,7 +1,7 @@
 ---
 layout: default
-title: ViewModels
-parent: The Question Bank
+title: "ViewModels"
+parent: "The Question Bank"
 nav_order: 5
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Unit & UI Testing: Phase 3: Intermediate Unit Testing (Mockk & Architecture)
-parent: Unit & UI Testing
+title: "Unit & UI Testing: Phase 3: Intermediate Unit Testing (Mockk & Architecture)"
+parent: "Unit & UI Testing"
 has_children: true
 ---
 

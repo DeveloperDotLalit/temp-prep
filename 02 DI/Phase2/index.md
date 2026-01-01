@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Dependency Injection: Phase 2: Dagger 2 - The Engine (The Hard Part)
-parent: Dependency Injection
+title: "Dependency Injection: Phase 2: Dagger 2 - The Engine (The Hard Part)"
+parent: "Dependency Injection"
 has_children: true
 ---
 

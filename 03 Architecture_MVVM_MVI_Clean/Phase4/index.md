@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Architecture (MVVM/MVI/Clean): Phase 4: The Glue & The Safety Net – DI & Testing
-parent: Architecture (MVVM/MVI/Clean)
+title: "Architecture (MVVM/MVI/Clean): Phase 4: The Glue & The Safety Net – DI & Testing"
+parent: "Architecture (MVVM/MVI/Clean)"
 has_children: true
 ---
 

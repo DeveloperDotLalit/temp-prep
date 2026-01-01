@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Handling Complex Lists (Heterogeneous Views
-parent: Architecture (MVVM/MVI/Clean): Phase 6: with the topic: "Refactoring Bloated ViewModels"?
+title: "Handling Complex Lists (Heterogeneous Views"
+parent: "Architecture (MVVM/MVI/Clean): Phase 6: with the topic: \"Refactoring Bloated ViewModels\"?"
 nav_order: 4
 grand_parent: Architecture (MVVM/MVI/Clean)
 ---

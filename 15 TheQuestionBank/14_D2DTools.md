@@ -1,7 +1,7 @@
 ---
 layout: default
-title: D2DTools
-parent: The Question Bank
+title: "D2DTools"
+parent: "The Question Bank"
 nav_order: 14
 ---
 

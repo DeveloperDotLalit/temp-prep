@@ -1,7 +1,7 @@
 ---
 layout: default
-title: DependancyManagement
-parent: The Question Bank
+title: "DependancyManagement"
+parent: "The Question Bank"
 nav_order: 12
 ---
 

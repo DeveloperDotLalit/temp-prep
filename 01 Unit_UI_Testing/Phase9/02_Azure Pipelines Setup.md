@@ -1,7 +1,7 @@
 ---
 layout: default
-title: **Chapter 9: CI/CD & Azure DevOps**
-parent: Unit & UI Testing: Phase 9: CI/CD & Azure DevOps
+title: "**Chapter 9: CI/CD & Azure DevOps**"
+parent: "Unit & UI Testing: Phase 9: CI/CD & Azure DevOps"
 nav_order: 2
 grand_parent: Unit & UI Testing
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: LifeCycles
-parent: The Question Bank
+title: "LifeCycles"
+parent: "The Question Bank"
 nav_order: 1
 ---
 

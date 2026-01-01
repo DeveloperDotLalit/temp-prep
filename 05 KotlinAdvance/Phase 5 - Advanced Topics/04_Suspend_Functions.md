@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Suspend Functions
-parent: Advanced Kotlin: Phase 5   Advanced Topics
+title: "Suspend Functions"
+parent: "Advanced Kotlin: Phase 5   Advanced Topics"
 nav_order: 4
 grand_parent: Advanced Kotlin
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Mvvm Vs Mvi
-parent: Architecture (MVVM/MVI/Clean): Phase 5: Interview Edge – Trade-offs & Best Practices
+title: "Mvvm Vs Mvi"
+parent: "Architecture (MVVM/MVI/Clean): Phase 5: Interview Edge – Trade-offs & Best Practices"
 nav_order: 1
 grand_parent: Architecture (MVVM/MVI/Clean)
 ---

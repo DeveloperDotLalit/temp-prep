@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Advanced Kotlin: Phase 7   Interview Scenarios
-parent: Advanced Kotlin
+title: "Advanced Kotlin: Phase 7   Interview Scenarios"
+parent: "Advanced Kotlin"
 has_children: true
 ---
 

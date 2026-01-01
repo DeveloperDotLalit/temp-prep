@@ -1,6 +1,6 @@
 ---
 layout: default
-title: System Components
+title: "System Components"
 nav_order: 13
 has_children: true
 ---

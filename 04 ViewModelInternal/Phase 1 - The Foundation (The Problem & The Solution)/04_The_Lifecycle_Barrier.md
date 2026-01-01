@@ -1,7 +1,7 @@
 ---
 layout: default
-title: The Lifecycle Barrier
-parent: ViewModel Internals: Phase 1   The Foundation (The Problem & The Solution)
+title: "The Lifecycle Barrier"
+parent: "ViewModel Internals: Phase 1   The Foundation (The Problem & The Solution)"
 nav_order: 4
 grand_parent: ViewModel Internals
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: **Chapter 6: The Elite Level (System & Architecture)**
-parent: Unit & UI Testing: Phase 6: The Elite Level & Interview Prep
+title: "**Chapter 6: The Elite Level (System & Architecture)**"
+parent: "Unit & UI Testing: Phase 6: The Elite Level & Interview Prep"
 nav_order: 3
 grand_parent: Unit & UI Testing
 ---

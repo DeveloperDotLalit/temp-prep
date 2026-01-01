@@ -1,7 +1,7 @@
 ---
 layout: default
-title: System Design
-parent: Architecture (MVVM/MVI/Clean): Phase 7: The Interview Q&A & Defense (The Final Polish)
+title: "System Design"
+parent: "Architecture (MVVM/MVI/Clean): Phase 7: The Interview Q&A & Defense (The Final Polish)"
 nav_order: 2
 grand_parent: Architecture (MVVM/MVI/Clean)
 ---

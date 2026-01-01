@@ -1,7 +1,7 @@
 ---
 layout: default
-title: AppBuildProcess
-parent: The Question Bank
+title: "AppBuildProcess"
+parent: "The Question Bank"
 nav_order: 15
 ---
 

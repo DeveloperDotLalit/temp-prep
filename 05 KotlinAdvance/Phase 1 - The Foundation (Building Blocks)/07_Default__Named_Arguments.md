@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Default & Named Arguments
-parent: Advanced Kotlin: Phase 1   The Foundation (Building Blocks)
+title: "Default & Named Arguments"
+parent: "Advanced Kotlin: Phase 1   The Foundation (Building Blocks)"
 nav_order: 7
 grand_parent: Advanced Kotlin
 ---

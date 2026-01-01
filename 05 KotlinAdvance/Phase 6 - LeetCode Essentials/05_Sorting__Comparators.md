@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Sorting & Comparators
-parent: Advanced Kotlin: Phase 6   Leetcode Essentials
+title: "Sorting & Comparators"
+parent: "Advanced Kotlin: Phase 6   Leetcode Essentials"
 nav_order: 5
 grand_parent: Advanced Kotlin
 ---

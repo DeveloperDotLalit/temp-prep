@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Companion Objects
-parent: Advanced Kotlin: Phase 3   The Kotlin Way
+title: "Companion Objects"
+parent: "Advanced Kotlin: Phase 3   The Kotlin Way"
 nav_order: 5
 grand_parent: Advanced Kotlin
 ---

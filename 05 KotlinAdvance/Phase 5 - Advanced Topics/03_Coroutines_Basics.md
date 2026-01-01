@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Coroutines Basics
-parent: Advanced Kotlin: Phase 5   Advanced Topics
+title: "Coroutines Basics"
+parent: "Advanced Kotlin: Phase 5   Advanced Topics"
 nav_order: 3
 grand_parent: Advanced Kotlin
 ---

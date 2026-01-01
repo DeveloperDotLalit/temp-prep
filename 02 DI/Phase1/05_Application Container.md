@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Phase 1: The Fundamentals – Topic 5: The Application Container & Scoping
-parent: Dependency Injection: Phase 1: The Fundamentals
+title: "Phase 1: The Fundamentals – Topic 5: The Application Container & Scoping"
+parent: "Dependency Injection: Phase 1: The Fundamentals"
 nav_order: 5
 grand_parent: Dependency Injection
 ---

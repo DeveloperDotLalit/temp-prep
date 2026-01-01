@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Advanced Kotlin
+title: "Advanced Kotlin"
 nav_order: 6
 has_children: true
 ---

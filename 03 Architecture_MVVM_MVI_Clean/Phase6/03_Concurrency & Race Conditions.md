@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Concurrency & Race Conditions
-parent: Architecture (MVVM/MVI/Clean): Phase 6: with the topic: "Refactoring Bloated ViewModels"?
+title: "Concurrency & Race Conditions"
+parent: "Architecture (MVVM/MVI/Clean): Phase 6: with the topic: \"Refactoring Bloated ViewModels\"?"
 nav_order: 3
 grand_parent: Architecture (MVVM/MVI/Clean)
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jetpack Components
+title: "Jetpack Components"
 nav_order: 12
 has_children: true
 ---

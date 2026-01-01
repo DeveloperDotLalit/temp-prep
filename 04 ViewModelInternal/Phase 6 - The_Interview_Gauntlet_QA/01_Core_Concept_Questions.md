@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Core Concept Questions
-parent: ViewModel Internals: Phase 6   The Interview Gauntlet Qa
+title: "Core Concept Questions"
+parent: "ViewModel Internals: Phase 6   The Interview Gauntlet Qa"
 nav_order: 1
 grand_parent: ViewModel Internals
 ---

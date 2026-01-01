@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Phase 3: Hilt – Topic 2: Standard Components & Hierarchy
-parent: Dependency Injection: Phase 3: Hilt - The Android Standard (The Solution)
+title: "Phase 3: Hilt – Topic 2: Standard Components & Hierarchy"
+parent: "Dependency Injection: Phase 3: Hilt - The Android Standard (The Solution)"
 nav_order: 2
 grand_parent: Dependency Injection
 ---

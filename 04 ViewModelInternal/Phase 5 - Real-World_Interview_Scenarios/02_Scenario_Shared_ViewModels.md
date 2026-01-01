@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Scenario Shared Viewmodels
-parent: ViewModel Internals: Phase 5   Real World Interview Scenarios
+title: "Scenario Shared Viewmodels"
+parent: "ViewModel Internals: Phase 5   Real World Interview Scenarios"
 nav_order: 2
 grand_parent: ViewModel Internals
 ---

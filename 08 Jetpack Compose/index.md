@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jetpack Compose
+title: "Jetpack Compose"
 nav_order: 9
 has_children: true
 ---

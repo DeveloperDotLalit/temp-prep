@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Architecture (MVVM/MVI/Clean): Phase 2: The Blueprint – Implementing Clean Architecture
-parent: Architecture (MVVM/MVI/Clean)
+title: "Architecture (MVVM/MVI/Clean): Phase 2: The Blueprint – Implementing Clean Architecture"
+parent: "Architecture (MVVM/MVI/Clean)"
 has_children: true
 ---
 

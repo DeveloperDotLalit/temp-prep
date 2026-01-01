@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ViewModel Internals
+title: "ViewModel Internals"
 nav_order: 5
 has_children: true
 ---

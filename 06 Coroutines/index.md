@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Coroutines
+title: "Coroutines"
 nav_order: 7
 has_children: true
 ---

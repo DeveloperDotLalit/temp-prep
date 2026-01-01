@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Unit & UI Testing: Phase 9: CI/CD & Azure DevOps
-parent: Unit & UI Testing
+title: "Unit & UI Testing: Phase 9: CI/CD & Azure DevOps"
+parent: "Unit & UI Testing"
 has_children: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Lifecycle Awareness
-parent: Architecture (MVVM/MVI/Clean): Phase 1: "The Problem: God Activities & Tight Coupling"?
+title: "Lifecycle Awareness"
+parent: "Architecture (MVVM/MVI/Clean): Phase 1: \"The Problem: God Activities & Tight Coupling\"?"
 nav_order: 4
 grand_parent: Architecture (MVVM/MVI/Clean)
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Architecture (MVVM/MVI/Clean): Phase 3: The Flow – Reactive Data & State Management
-parent: Architecture (MVVM/MVI/Clean)
+title: "Architecture (MVVM/MVI/Clean): Phase 3: The Flow – Reactive Data & State Management"
+parent: "Architecture (MVVM/MVI/Clean)"
 has_children: true
 ---
 

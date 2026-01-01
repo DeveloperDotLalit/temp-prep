@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Savedstatehandle
-parent: ViewModel Internals: Phase 4   State Saving & Process Death
+title: "Savedstatehandle"
+parent: "ViewModel Internals: Phase 4   State Saving & Process Death"
 nav_order: 2
 grand_parent: ViewModel Internals
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Rapid Fire
-parent: Architecture (MVVM/MVI/Clean): Phase 7: The Interview Q&A & Defense (The Final Polish)
+title: "Rapid Fire"
+parent: "Architecture (MVVM/MVI/Clean): Phase 7: The Interview Q&A & Defense (The Final Polish)"
 nav_order: 5
 grand_parent: Architecture (MVVM/MVI/Clean)
 ---

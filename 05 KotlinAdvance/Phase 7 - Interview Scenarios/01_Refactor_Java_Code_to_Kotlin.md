@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Refactor Java Code to Kotlin
-parent: Advanced Kotlin: Phase 7   Interview Scenarios
+title: "Refactor Java Code to Kotlin"
+parent: "Advanced Kotlin: Phase 7   Interview Scenarios"
 nav_order: 1
 grand_parent: Advanced Kotlin
 ---

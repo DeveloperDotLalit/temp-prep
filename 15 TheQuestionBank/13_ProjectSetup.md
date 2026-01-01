@@ -1,7 +1,7 @@
 ---
 layout: default
-title: ProjectSetup
-parent: The Question Bank
+title: "ProjectSetup"
+parent: "The Question Bank"
 nav_order: 13
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Dependency Injection: Phase 1: The Fundamentals
-parent: Dependency Injection
+title: "Dependency Injection: Phase 1: The Fundamentals"
+parent: "Dependency Injection"
 has_children: true
 ---
 

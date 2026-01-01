@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Architecture Questions
-parent: ViewModel Internals: Phase 6   The Interview Gauntlet Qa
+title: "Architecture Questions"
+parent: "ViewModel Internals: Phase 6   The Interview Gauntlet Qa"
 nav_order: 3
 grand_parent: ViewModel Internals
 ---

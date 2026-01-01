@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SOLID Principles
+title: "SOLID Principles"
 nav_order: 10
 has_children: true
 ---

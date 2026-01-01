@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Advanced Kotlin: Phase 4   Functional Programming
-parent: Advanced Kotlin
+title: "Advanced Kotlin: Phase 4   Functional Programming"
+parent: "Advanced Kotlin"
 has_children: true
 ---
 

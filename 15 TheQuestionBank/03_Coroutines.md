@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Coroutines Q&A
-parent: The Question Bank
+title: "Coroutines Q&A"
+parent: "The Question Bank"
 nav_order: 3
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Architecture (MVVM/MVI/Clean): Phase 7: The Interview Q&A & Defense (The Final Polish)
-parent: Architecture (MVVM/MVI/Clean)
+title: "Architecture (MVVM/MVI/Clean): Phase 7: The Interview Q&A & Defense (The Final Polish)"
+parent: "Architecture (MVVM/MVI/Clean)"
 has_children: true
 ---
 

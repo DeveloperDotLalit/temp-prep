@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Udf
-parent: Architecture (MVVM/MVI/Clean): Phase 3: The Flow – Reactive Data & State Management
+title: "Udf"
+parent: "Architecture (MVVM/MVI/Clean): Phase 3: The Flow – Reactive Data & State Management"
 nav_order: 1
 grand_parent: Architecture (MVVM/MVI/Clean)
 ---

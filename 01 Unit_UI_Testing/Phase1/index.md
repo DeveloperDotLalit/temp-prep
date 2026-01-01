@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Unit & UI Testing: Phase 1: The Conceptual Foundation
-parent: Unit & UI Testing
+title: "Unit & UI Testing: Phase 1: The Conceptual Foundation"
+parent: "Unit & UI Testing"
 has_children: true
 ---
 

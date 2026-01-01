@@ -1,7 +1,7 @@
 ---
 layout: default
-title: AppStructure
-parent: The Question Bank
+title: "AppStructure"
+parent: "The Question Bank"
 nav_order: 7
 ---
 

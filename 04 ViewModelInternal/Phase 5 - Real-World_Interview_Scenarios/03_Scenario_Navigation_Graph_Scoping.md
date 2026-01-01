@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Scenario Navigation Graph Scoping
-parent: ViewModel Internals: Phase 5   Real World Interview Scenarios
+title: "Scenario Navigation Graph Scoping"
+parent: "ViewModel Internals: Phase 5   Real World Interview Scenarios"
 nav_order: 3
 grand_parent: ViewModel Internals
 ---

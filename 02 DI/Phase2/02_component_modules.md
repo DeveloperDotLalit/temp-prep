@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Phase 2: Dagger 2 – Topic 2: Implementing @Component and @Inject
-parent: Dependency Injection: Phase 2: Dagger 2 - The Engine (The Hard Part)
+title: "Phase 2: Dagger 2 – Topic 2: Implementing @Component and @Inject"
+parent: "Dependency Injection: Phase 2: Dagger 2 - The Engine (The Hard Part)"
 nav_order: 2
 grand_parent: Dependency Injection
 ---

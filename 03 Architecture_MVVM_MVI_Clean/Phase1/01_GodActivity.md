@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Godactivity
-parent: Architecture (MVVM/MVI/Clean): Phase 1: "The Problem: God Activities & Tight Coupling"?
+title: "Godactivity"
+parent: "Architecture (MVVM/MVI/Clean): Phase 1: \"The Problem: God Activities & Tight Coupling\"?"
 nav_order: 1
 grand_parent: Architecture (MVVM/MVI/Clean)
 ---

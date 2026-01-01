@@ -1,7 +1,7 @@
 ---
 layout: default
-title: NetworkingLibs
-parent: The Question Bank
+title: "NetworkingLibs"
+parent: "The Question Bank"
 nav_order: 9
 ---
 

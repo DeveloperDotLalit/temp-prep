@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Generics
-parent: Advanced Kotlin: Phase 5   Advanced Topics
+title: "Generics"
+parent: "Advanced Kotlin: Phase 5   Advanced Topics"
 nav_order: 1
 grand_parent: Advanced Kotlin
 ---

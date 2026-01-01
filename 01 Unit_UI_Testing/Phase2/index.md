@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Unit & UI Testing: Phase 2: Project Setup & Gradle" and get your environment ready right now?
-parent: Unit & UI Testing
+title: "Unit & UI Testing: Phase 2: Project Setup & Gradle\" and get your environment ready right now?"
+parent: "Unit & UI Testing"
 has_children: true
 ---
 

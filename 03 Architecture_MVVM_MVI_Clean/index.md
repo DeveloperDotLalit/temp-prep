@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Architecture (MVVM/MVI/Clean)
+title: "Architecture (MVVM/MVI/Clean)"
 nav_order: 4
 has_children: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: String Templates
-parent: Advanced Kotlin: Phase 1   The Foundation (Building Blocks)
+title: "String Templates"
+parent: "Advanced Kotlin: Phase 1   The Foundation (Building Blocks)"
 nav_order: 3
 grand_parent: Advanced Kotlin
 ---

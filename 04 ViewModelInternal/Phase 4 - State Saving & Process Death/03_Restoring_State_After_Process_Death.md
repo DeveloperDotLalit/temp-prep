@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Restoring State After Process Death
-parent: ViewModel Internals: Phase 4   State Saving & Process Death
+title: "Restoring State After Process Death"
+parent: "ViewModel Internals: Phase 4   State Saving & Process Death"
 nav_order: 3
 grand_parent: ViewModel Internals
 ---

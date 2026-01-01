@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Architecture (MVVM/MVI/Clean): Phase 6: with the topic: "Refactoring Bloated ViewModels"?
-parent: Architecture (MVVM/MVI/Clean)
+title: "Architecture (MVVM/MVI/Clean): Phase 6: with the topic: \"Refactoring Bloated ViewModels\"?"
+parent: "Architecture (MVVM/MVI/Clean)"
 has_children: true
 ---
 

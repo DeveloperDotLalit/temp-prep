@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Delegation
-parent: Advanced Kotlin: Phase 5   Advanced Topics
+title: "Delegation"
+parent: "Advanced Kotlin: Phase 5   Advanced Topics"
 nav_order: 2
 grand_parent: Advanced Kotlin
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: CICD
-parent: The Question Bank
+title: "CICD"
+parent: "The Question Bank"
 nav_order: 8
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Pagination & Infinite Scrolling
-parent: Architecture (MVVM/MVI/Clean): Phase 6: with the topic: "Refactoring Bloated ViewModels"?
+title: "Pagination & Infinite Scrolling"
+parent: "Architecture (MVVM/MVI/Clean): Phase 6: with the topic: \"Refactoring Bloated ViewModels\"?"
 nav_order: 5
 grand_parent: Architecture (MVVM/MVI/Clean)
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Sealed Classes & Interfaces
-parent: Advanced Kotlin: Phase 3   The Kotlin Way
+title: "Sealed Classes & Interfaces"
+parent: "Advanced Kotlin: Phase 3   The Kotlin Way"
 nav_order: 6
 grand_parent: Advanced Kotlin
 ---

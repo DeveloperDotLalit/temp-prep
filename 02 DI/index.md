@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dependency Injection
+title: "Dependency Injection"
 nav_order: 3
 has_children: true
 ---

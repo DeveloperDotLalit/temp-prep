@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Phase 3: Hilt – Topic 3: ViewModel Injection (@HiltViewModel)
-parent: Dependency Injection: Phase 3: Hilt - The Android Standard (The Solution)
+title: "Phase 3: Hilt – Topic 3: ViewModel Injection (@HiltViewModel)"
+parent: "Dependency Injection: Phase 3: Hilt - The Android Standard (The Solution)"
 nav_order: 3
 grand_parent: Dependency Injection
 ---

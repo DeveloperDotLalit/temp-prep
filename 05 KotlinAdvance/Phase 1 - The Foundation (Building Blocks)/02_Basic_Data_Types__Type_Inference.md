@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Basic Data Types & Type Inference
-parent: Advanced Kotlin: Phase 1   The Foundation (Building Blocks)
+title: "Basic Data Types & Type Inference"
+parent: "Advanced Kotlin: Phase 1   The Foundation (Building Blocks)"
 nav_order: 2
 grand_parent: Advanced Kotlin
 ---

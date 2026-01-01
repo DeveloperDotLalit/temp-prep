@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Designing API Response Handlers
-parent: Advanced Kotlin: Phase 7   Interview Scenarios
+title: "Designing API Response Handlers"
+parent: "Advanced Kotlin: Phase 7   Interview Scenarios"
 nav_order: 3
 grand_parent: Advanced Kotlin
 ---

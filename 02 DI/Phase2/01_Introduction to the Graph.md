@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Phase 2: Dagger 2 – Topic 1: The Engine & The Graph
-parent: Dependency Injection: Phase 2: Dagger 2 - The Engine (The Hard Part)
+title: "Phase 2: Dagger 2 – Topic 1: The Engine & The Graph"
+parent: "Dependency Injection: Phase 2: Dagger 2 - The Engine (The Hard Part)"
 nav_order: 1
 grand_parent: Dependency Injection
 ---

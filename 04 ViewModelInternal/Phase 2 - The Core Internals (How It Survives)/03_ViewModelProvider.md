@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Viewmodelprovider
-parent: ViewModel Internals: Phase 2   The Core Internals (How It Survives)
+title: "Viewmodelprovider"
+parent: "ViewModel Internals: Phase 2   The Core Internals (How It Survives)"
 nav_order: 3
 grand_parent: ViewModel Internals
 ---

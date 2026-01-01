@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Advanced Kotlin: Phase 8   Interview Q&A
-parent: Advanced Kotlin
+title: "Advanced Kotlin: Phase 8   Interview Q&A"
+parent: "Advanced Kotlin"
 has_children: true
 ---
 

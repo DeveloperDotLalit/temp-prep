@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Architecture (MVVM/MVI/Clean): Phase 5: Interview Edge – Trade-offs & Best Practices
-parent: Architecture (MVVM/MVI/Clean)
+title: "Architecture (MVVM/MVI/Clean): Phase 5: Interview Edge – Trade-offs & Best Practices"
+parent: "Architecture (MVVM/MVI/Clean)"
 has_children: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Flow Q&A
-parent: The Question Bank
+title: "Flow Q&A"
+parent: "The Question Bank"
 nav_order: 4
 ---
 

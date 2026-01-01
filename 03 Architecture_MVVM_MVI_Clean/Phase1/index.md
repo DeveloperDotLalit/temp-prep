@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Architecture (MVVM/MVI/Clean): Phase 1: "The Problem: God Activities & Tight Coupling"?
-parent: Architecture (MVVM/MVI/Clean)
+title: "Architecture (MVVM/MVI/Clean): Phase 1: \"The Problem: God Activities & Tight Coupling\"?"
+parent: "Architecture (MVVM/MVI/Clean)"
 has_children: true
 ---
 

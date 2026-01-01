@@ -1,7 +1,7 @@
 ---
 layout: default
-title: JetpackComponents
-parent: The Question Bank
+title: "JetpackComponents"
+parent: "The Question Bank"
 nav_order: 10
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Tricky Output Questions
-parent: Advanced Kotlin: Phase 8   Interview Q&A
+title: "Tricky Output Questions"
+parent: "Advanced Kotlin: Phase 8   Interview Q&A"
 nav_order: 3
 grand_parent: Advanced Kotlin
 ---

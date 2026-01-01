@@ -1,7 +1,7 @@
 ---
 layout: default
-title: architecture
-parent: The Question Bank
+title: "architecture"
+parent: "The Question Bank"
 nav_order: 6
 ---
 

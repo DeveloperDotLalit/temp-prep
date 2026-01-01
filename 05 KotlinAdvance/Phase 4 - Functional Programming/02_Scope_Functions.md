@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Scope Functions
-parent: Advanced Kotlin: Phase 4   Functional Programming
+title: "Scope Functions"
+parent: "Advanced Kotlin: Phase 4   Functional Programming"
 nav_order: 2
 grand_parent: Advanced Kotlin
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: HashMap & HashSet Mastery
-parent: Advanced Kotlin: Phase 6   Leetcode Essentials
+title: "HashMap & HashSet Mastery"
+parent: "Advanced Kotlin: Phase 6   Leetcode Essentials"
 nav_order: 2
 grand_parent: Advanced Kotlin
 ---

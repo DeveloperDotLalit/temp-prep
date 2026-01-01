@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Dependency Rule
-parent: Architecture (MVVM/MVI/Clean): Phase 2: The Blueprint – Implementing Clean Architecture
+title: "Dependency Rule"
+parent: "Architecture (MVVM/MVI/Clean): Phase 2: The Blueprint – Implementing Clean Architecture"
 nav_order: 4
 grand_parent: Architecture (MVVM/MVI/Clean)
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: KotlinQnA
-parent: The Question Bank
+title: "KotlinQnA"
+parent: "The Question Bank"
 nav_order: 2
 ---
 
