@@ -8,3 +8,6 @@ has_children: true
 # Design Patterns
 
 *Content coming soon.*
+
+## Modules / Phases
+

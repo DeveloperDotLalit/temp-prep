@@ -1,7 +1,7 @@
 ---
 layout: default
 title: **Chapter 2: The Basics (JUnit & Assertions)**
-parent: Unit & UI Testing: Phase2
+parent: Unit & UI Testing: Phase 2: Project Setup & Gradle" and get your environment ready right now?
 nav_order: 4
 grand_parent: Unit & UI Testing
 ---

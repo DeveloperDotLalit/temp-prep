@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Architecture (MVVM/MVI/Clean): Phase3
+title: Architecture (MVVM/MVI/Clean): Phase 3: The Flow – Reactive Data & State Management
 parent: Architecture (MVVM/MVI/Clean)
 has_children: true
 ---
@@ -8,3 +8,11 @@ has_children: true
 # Phase3
 
 *Topics in this section.*
+
+
+## Chapters
+
+- [Udf](01_UDF.md)
+- [Observables](02_observables.md)
+- [Ui State Modeling](03_Ui_state_modeling.md)
+- [Mvi Arch](04_MVI_arch.md)

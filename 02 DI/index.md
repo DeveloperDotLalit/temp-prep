@@ -48,3 +48,15 @@ Here is the revised, comprehensive **"Zero to Elite" Roadmap** including Manual 
 ### **Next Step**
 
 Shall we start strictly with **Phase 1: The Fundamentals**? We will begin by writing a "Bad Code" example with tight coupling and then refactoring it.
+
+## Topics
+
+
+
+
+## Modules / Phases
+
+- [Phase 1: The Fundamentals](Phase1/index.md)
+- [Phase 2: Dagger 2 - The Engine (The Hard Part)](Phase2/index.md)
+- [Phase 3: Hilt - The Android Standard (The Solution)](Phase3/index.md)
+- [Phase 4: Elite Scenarios & Architecture](Phase4/index.md)

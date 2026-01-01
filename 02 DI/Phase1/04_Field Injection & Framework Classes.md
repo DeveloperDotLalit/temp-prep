@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Phase 1: The Fundamentals – Topic 4: Field Injection & Framework Classes
-parent: Dependency Injection: Phase1
+parent: Dependency Injection: Phase 1: The Fundamentals
 nav_order: 4
 grand_parent: Dependency Injection
 ---

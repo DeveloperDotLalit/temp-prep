@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Spotting Code Smells
-parent: Architecture (MVVM/MVI/Clean): Phase7
+parent: Architecture (MVVM/MVI/Clean): Phase 7: The Interview Q&A & Defense (The Final Polish)
 nav_order: 3
 grand_parent: Architecture (MVVM/MVI/Clean)
 ---

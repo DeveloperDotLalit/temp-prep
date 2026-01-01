@@ -5,6 +5,10 @@ author: Me
 # Theme settings
 remote_theme: just-the-docs/just-the-docs
 
+# Site Settings
+url: "https://DeveloperDotLalit.github.io" # Replace with your user/org URL
+baseurl: "/temp-prep" # Repository name
+
 # Theme configuration
 color_scheme: dark
 search_enabled: true

@@ -215,3 +215,20 @@ _Automating the quality gate so bad code never merges._
 ---
 
 **Would you like to start immediately with notes for "Phase 7: Jetpack Compose Testing - The Semantics Tree & Setup"?**
+
+## Topics
+
+
+
+
+## Modules / Phases
+
+- [Phase 1: The Conceptual Foundation](Phase1/index.md)
+- [Phase 2: Project Setup & Gradle" and get your environment ready right now?](Phase2/index.md)
+- [Phase 3: Intermediate Unit Testing (Mockk & Architecture)](Phase3/index.md)
+- [Phase 4: Asynchronous Testing (Coroutines & Flows)](Phase4/index.md)
+- [Phase 5: UI Testing (Espresso)](Phase5/index.md)
+- [Phase 6: The Elite Level & Interview Prep](Phase6/index.md)
+- [Phase 7: Jetpack Compose Testing - The Semantics Tree & Setup"?](Phase7/index.md)
+- [Phase 8: Scenario-Based Solutions (The "Star" Interview Questions)](Phase8/index.md)
+- [Phase 9: CI/CD & Azure DevOps](Phase9/index.md)

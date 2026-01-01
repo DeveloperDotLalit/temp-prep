@@ -70,3 +70,17 @@ _Goal: Rapid-fire questions and refining your spoken answers._
 
 **Next Step:**
 Shall we begin with **Phase 1: The Foundation**? I will generate the detailed notes, examples, and interview-speak for the first set of topics.
+
+## Topics
+
+
+
+
+## Modules / Phases
+
+- [Phase 1   The Foundation (The Problem & The Solution)](Phase 1 - The Foundation (The Problem & The Solution)/index.md)
+- [Phase 2   The Core Internals (How It Survives)](Phase 2 - The Core Internals (How It Survives)/index.md)
+- [Phase 3   Creation & Dependency Injection](Phase 3 - Creation & Dependency Injection/index.md)
+- [Phase 4   State Saving & Process Death](Phase 4 - State Saving & Process Death/index.md)
+- [Phase 5   Real World Interview Scenarios](Phase 5 - Real-World_Interview_Scenarios/index.md)
+- [Phase 6   The Interview Gauntlet Qa](Phase 6 - The_Interview_Gauntlet_QA/index.md)

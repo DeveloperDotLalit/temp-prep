@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 🚀 Android Architecture Cheat Sheet: Clean MVVM/MVI
-parent: Architecture
+parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here is your **Ultimate Android Architecture Cheat Sheet**. This condenses weeks of learning into a single, rapid-revision guide.

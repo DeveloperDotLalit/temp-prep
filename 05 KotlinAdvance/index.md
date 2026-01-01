@@ -98,3 +98,19 @@ _Goal: The final rehearsal._
 
 **Does this roadmap look good to you?**
 If you are happy with this structure, just say **"Start Phase 1"**, and we will begin with **Variables and Basic Types** using your requested mandatory structure!
+
+## Topics
+
+
+
+
+## Modules / Phases
+
+- [Phase 1   The Foundation (Building Blocks)](Phase 1 - The Foundation (Building Blocks)/index.md)
+- [Phase 2   Object Oriented Kotlin](Phase 2 - Object-Oriented Kotlin/index.md)
+- [Phase 3   The Kotlin Way](Phase 3 - The Kotlin Way/index.md)
+- [Phase 4   Functional Programming](Phase 4 - Functional Programming/index.md)
+- [Phase 5   Advanced Topics](Phase 5 - Advanced Topics/index.md)
+- [Phase 6   Leetcode Essentials](Phase 6 - LeetCode Essentials/index.md)
+- [Phase 7   Interview Scenarios](Phase 7 - Interview Scenarios/index.md)
+- [Phase 8   Interview Q&A](Phase 8 - Interview Q&A/index.md)

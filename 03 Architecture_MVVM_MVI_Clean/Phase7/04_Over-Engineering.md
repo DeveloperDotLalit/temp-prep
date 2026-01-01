@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Over Engineering
-parent: Architecture (MVVM/MVI/Clean): Phase7
+parent: Architecture (MVVM/MVI/Clean): Phase 7: The Interview Q&A & Defense (The Final Polish)
 nav_order: 4
 grand_parent: Architecture (MVVM/MVI/Clean)
 ---

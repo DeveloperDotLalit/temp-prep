@@ -152,3 +152,18 @@ _Goal: The ultimate preparation. Purely focused on how to speak, defend your cho
 ---
 
 **Would you like me to begin Phase 6 with the topic: "Refactoring Bloated ViewModels"?**
+
+## Topics
+
+
+
+
+## Modules / Phases
+
+- [Phase 1: "The Problem: God Activities & Tight Coupling"?](Phase1/index.md)
+- [Phase 2: The Blueprint – Implementing Clean Architecture](Phase2/index.md)
+- [Phase 3: The Flow – Reactive Data & State Management](Phase3/index.md)
+- [Phase 4: The Glue & The Safety Net – DI & Testing](Phase4/index.md)
+- [Phase 5: Interview Edge – Trade-offs & Best Practices](Phase5/index.md)
+- [Phase 6: with the topic: "Refactoring Bloated ViewModels"?](Phase6/index.md)
+- [Phase 7: The Interview Q&A & Defense (The Final Polish)](Phase7/index.md)

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unit & UI Testing: Phase9
+title: Unit & UI Testing: Phase 9: CI/CD & Azure DevOps
 parent: Unit & UI Testing
 has_children: true
 ---
@@ -8,3 +8,12 @@ has_children: true
 # Phase9
 
 *Topics in this section.*
+
+
+## Chapters
+
+- [Chapter 9: CI/CD & Azure DevOps](01_The CI Pipeline Lifecycle.md)
+- [Chapter 9: CI/CD & Azure DevOps](02_Azure Pipelines Setup.md)
+- [Chapter 9: CI/CD & Azure DevOps](03_Headless Emulators vs. Firebase Test Lab.md)
+- [Chapter 9: CI/CD & Azure DevOps](04_Test Reporting.md)
+- [Chapter 9: CI/CD & Azure DevOps](05_Interview Explanation.md)

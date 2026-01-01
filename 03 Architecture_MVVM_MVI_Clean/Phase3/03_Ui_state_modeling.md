@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ui State Modeling
-parent: Architecture (MVVM/MVI/Clean): Phase3
+parent: Architecture (MVVM/MVI/Clean): Phase 3: The Flow – Reactive Data & State Management
 nav_order: 3
 grand_parent: Architecture (MVVM/MVI/Clean)
 ---

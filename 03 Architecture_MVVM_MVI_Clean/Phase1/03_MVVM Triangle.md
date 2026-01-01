@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mvvm Triangle
-parent: Architecture (MVVM/MVI/Clean): Phase1
+parent: Architecture (MVVM/MVI/Clean): Phase 1: "The Problem: God Activities & Tight Coupling"?
 nav_order: 3
 grand_parent: Architecture (MVVM/MVI/Clean)
 ---

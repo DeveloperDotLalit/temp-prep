@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Shared Viewmodels
-parent: Architecture (MVVM/MVI/Clean): Phase6
+parent: Architecture (MVVM/MVI/Clean): Phase 6: with the topic: "Refactoring Bloated ViewModels"?
 nav_order: 2
 grand_parent: Architecture (MVVM/MVI/Clean)
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Phase 3: Hilt – Topic 6: Assisted Injection
-parent: Dependency Injection: Phase4
+parent: Dependency Injection: Phase 4: Elite Scenarios & Architecture
 nav_order: 2
 grand_parent: Dependency Injection
 ---

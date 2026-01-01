@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Phase 3: Hilt – Topic 4: Context Injection (@ApplicationContext & @ActivityContext)
-parent: Dependency Injection: Phase3
+parent: Dependency Injection: Phase 3: Hilt - The Android Standard (The Solution)
 nav_order: 4
 grand_parent: Dependency Injection
 ---

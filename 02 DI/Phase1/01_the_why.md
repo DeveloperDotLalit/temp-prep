@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Phase 1: The Fundamentals – Topic 1: The "Why" (Tight vs. Loose Coupling)
-parent: Dependency Injection: Phase1
+parent: Dependency Injection: Phase 1: The Fundamentals
 nav_order: 1
 grand_parent: Dependency Injection
 ---

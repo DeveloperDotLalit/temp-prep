@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Unittestingrepousecases
-parent: Architecture (MVVM/MVI/Clean): Phase4
+parent: Architecture (MVVM/MVI/Clean): Phase 4: The Glue & The Safety Net – DI & Testing
 nav_order: 3
 grand_parent: Architecture (MVVM/MVI/Clean)
 ---

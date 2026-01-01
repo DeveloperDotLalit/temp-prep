@@ -8,3 +8,6 @@ has_children: true
 # SOLID Principles
 
 *Content coming soon.*
+
+## Modules / Phases
+

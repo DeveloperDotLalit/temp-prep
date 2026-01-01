@@ -1,7 +1,7 @@
 ---
 layout: default
 title: **Chapter 8: Scenario-Based Solutions**
-parent: Unit & UI Testing: Phase8
+parent: Unit & UI Testing: Phase 8: Scenario-Based Solutions (The "Star" Interview Questions)
 nav_order: 7
 grand_parent: Unit & UI Testing
 ---

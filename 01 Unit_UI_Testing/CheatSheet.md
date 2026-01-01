@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cheatsheet
-parent: Unit
+parent: Unit & UI Testing
 ---
 
 Here is your **Elite Android Testing Cheat Sheet**.

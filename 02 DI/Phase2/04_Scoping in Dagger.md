@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Phase 2: Dagger 2 – Topic 4: Scoping & The @Singleton Annotation
-parent: Dependency Injection: Phase2
+parent: Dependency Injection: Phase 2: Dagger 2 - The Engine (The Hard Part)
 nav_order: 4
 grand_parent: Dependency Injection
 ---
