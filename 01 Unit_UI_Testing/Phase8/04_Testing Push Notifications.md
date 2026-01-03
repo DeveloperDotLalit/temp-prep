@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "**Chapter 8: Scenario-Based Solutions**"
-parent: "Unit & UI Testing: Phase 8: Scenario-Based Solutions (The \"Star\" Interview Questions)"
+title: "Testing Push Notifications"
+parent: "Phase 8: Scenario-Based Solutions"
 nav_order: 4
-grand_parent: Unit & UI Testing
+grand_parent: "Unit & UI Testing"
 ---
 
 Here are your in-depth study notes for **Phase 8, Scenario 4**.

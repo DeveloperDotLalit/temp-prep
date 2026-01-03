@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Unit & UI Testing: Phase 4: Asynchronous Testing (Coroutines & Flows)"
+title: "Phase 4: Asynchronous Testing (Coroutines & Flows)"
 parent: "Unit & UI Testing"
 has_children: true
+nav_order: 4
 ---
 
 # Phase4

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "**Chapter 1: The Conceptual Foundation**"
-parent: "Unit & UI Testing: Phase 1: The Conceptual Foundation"
+title: "Unit vs Instrumented Tests"
+parent: "Phase 1: The Conceptual Foundation"
 nav_order: 4
 grand_parent: Unit & UI Testing
 ---

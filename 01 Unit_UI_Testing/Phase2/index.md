@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Unit & UI Testing: Phase 2: Project Setup & Gradle\" and get your environment ready right now?"
+title: "Phase 2: The Basics (JUnit & Assertions)"
 parent: "Unit & UI Testing"
 has_children: true
+nav_order: 2
 ---
 
 # Phase2

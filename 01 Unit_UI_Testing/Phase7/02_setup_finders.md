@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "**Chapter 7: Jetpack Compose Testing**"
-parent: "Unit & UI Testing: Phase 7: Jetpack Compose Testing - The Semantics Tree & Setup\"?"
+title: "Setup & Finders"
+parent: "Phase 7: Jetpack Compose Testing"
 nav_order: 2
-grand_parent: Unit & UI Testing
+grand_parent: "Unit & UI Testing"
 ---
 
 Here are your in-depth study notes for **Topic 7.2**.

@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Unit & UI Testing: Phase 9: CI/CD & Azure DevOps"
+title: "Phase 9: CI/CD & Azure DevOps"
 parent: "Unit & UI Testing"
 has_children: true
+nav_order: 9
 ---
 
 # Phase9

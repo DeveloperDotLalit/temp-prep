@@ -2,6 +2,7 @@
 layout: default
 title: "Cheatsheet"
 parent: "Unit & UI Testing"
+nav_order: 12
 ---
 
 Here is your **Elite Android Testing Cheat Sheet**.

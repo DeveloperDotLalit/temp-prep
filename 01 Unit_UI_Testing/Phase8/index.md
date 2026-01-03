@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Unit & UI Testing: Phase 8: Scenario-Based Solutions (The \"Star\" Interview Questions)"
+title: "Phase 8: Scenario-Based Solutions"
 parent: "Unit & UI Testing"
 has_children: true
+nav_order: 8
 ---
 
 # Phase8

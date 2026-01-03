@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "**Chapter 2: The Basics (JUnit & Assertions)**"
-parent: "Unit & UI Testing: Phase 2: Project Setup & Gradle\" and get your environment ready right now?"
+title: "JUnit Annotations"
+parent: "Phase 2: The Basics (JUnit & Assertions)"
 nav_order: 3
-grand_parent: Unit & UI Testing
+grand_parent: "Unit & UI Testing"
 ---
 
 Here are your in-depth study notes for **Topic 2.3**.

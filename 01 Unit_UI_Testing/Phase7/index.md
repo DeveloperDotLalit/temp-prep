@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Unit & UI Testing: Phase 7: Jetpack Compose Testing - The Semantics Tree & Setup\"?"
+title: "Phase 7: Jetpack Compose Testing"
 parent: "Unit & UI Testing"
 has_children: true
+nav_order: 7
 ---
 
 # Phase7

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "**Chapter 5: UI Testing (Espresso)**"
-parent: "Unit & UI Testing: Phase 5: UI Testing (Espresso)"
+title: "The Robot Pattern"
+parent: "Phase 5: UI Testing (Espresso)"
 nav_order: 5
-grand_parent: Unit & UI Testing
+grand_parent: "Unit & UI Testing"
 ---
 
 Here are your in-depth study notes for **Topic 5.5**.

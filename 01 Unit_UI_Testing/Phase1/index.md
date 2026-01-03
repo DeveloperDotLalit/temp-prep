@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Unit & UI Testing: Phase 1: The Conceptual Foundation"
+title: "Phase 1: The Conceptual Foundation"
 parent: "Unit & UI Testing"
 has_children: true
+nav_order: 1
 ---
 
 # Phase1

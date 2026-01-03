@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "**Chapter 3: Intermediate Unit Testing (Mockk & Architecture)**"
-parent: "Unit & UI Testing: Phase 3: Intermediate Unit Testing (Mockk & Architecture)"
+title: "Argument Capturing (Slots)"
+parent: "Phase 3: Intermediate Unit Testing (Mockk & Architecture)"
 nav_order: 4
-grand_parent: Unit & UI Testing
+grand_parent: "Unit & UI Testing"
 ---
 
 Here are your in-depth study notes for **Topic 3.3**.

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "**Chapter 7: Jetpack Compose Testing**"
-parent: "Unit & UI Testing: Phase 7: Jetpack Compose Testing - The Semantics Tree & Setup\"?"
+title: "The Paradigm Shift & The Semantics Tree"
+parent: "Phase 7: Jetpack Compose Testing"
 nav_order: 1
-grand_parent: Unit & UI Testing
+grand_parent: "Unit & UI Testing"
 ---
 
 Here are your in-depth study notes for **Phase 7, Topic 7.1**.

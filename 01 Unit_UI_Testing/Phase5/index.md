@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Unit & UI Testing: Phase 5: UI Testing (Espresso)"
+title: "Phase 5: UI Testing (Espresso)"
 parent: "Unit & UI Testing"
 has_children: true
+nav_order: 5
 ---
 
 # Phase5

@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Unit & UI Testing: Phase 6: The Elite Level & Interview Prep"
+title: "Phase 6: The Elite Level & Interview Prep"
 parent: "Unit & UI Testing"
 has_children: true
+nav_order: 6
 ---
 
 # Phase6
