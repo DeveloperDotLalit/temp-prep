@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "ViewModel Internals: Phase 5   Real World Interview Scenarios"
+title: "Phase 5: Real World Interview Scenarios"
 parent: "ViewModel Internals"
 has_children: true
+nav_order: 5
 ---
 
 # Phase 5   Real World Interview Scenarios

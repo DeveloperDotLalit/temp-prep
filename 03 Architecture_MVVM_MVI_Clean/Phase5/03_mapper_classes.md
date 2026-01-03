@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Mapper Classes"
-parent: "Architecture (MVVM/MVI/Clean): Phase 5: Interview Edge – Trade-offs & Best Practices"
+parent: "Phase 5: Interview Edge"
 nav_order: 3
-grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **Mapper Classes**.

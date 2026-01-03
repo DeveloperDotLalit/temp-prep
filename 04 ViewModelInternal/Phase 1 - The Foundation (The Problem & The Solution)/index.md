@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "ViewModel Internals: Phase 1   The Foundation (The Problem & The Solution)"
+title: "Phase 1: The Foundation"
 parent: "ViewModel Internals"
 has_children: true
+nav_order: 1
 ---
 
 # Phase 1   The Foundation (The Problem & The Solution)

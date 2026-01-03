@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Advanced Kotlin: Phase 4   Functional Programming"
+title: "Phase 4: Functional Programming & Scoping"
 parent: "Advanced Kotlin"
 has_children: true
+nav_order: 4
 ---
 
 # Phase 4   Functional Programming

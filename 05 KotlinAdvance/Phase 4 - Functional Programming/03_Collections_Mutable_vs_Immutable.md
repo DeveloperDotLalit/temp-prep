@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Collections: Mutable vs Immutable"
-parent: "Advanced Kotlin: Phase 4   Functional Programming"
+parent: "Phase 4: Functional Programming & Scoping"
 nav_order: 3
-grand_parent: Advanced Kotlin
 ---
 
 ﻿---

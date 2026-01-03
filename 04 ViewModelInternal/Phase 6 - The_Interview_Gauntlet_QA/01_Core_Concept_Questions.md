@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Core Concept Questions"
-parent: "ViewModel Internals: Phase 6   The Interview Gauntlet Qa"
+parent: "Phase 6: The Interview Gauntlet"
 nav_order: 1
-grand_parent: ViewModel Internals
 ---
 
 Here are your detailed notes for the first topic of Phase 6.

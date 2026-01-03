@@ -2,6 +2,7 @@
 layout: default
 title: "Cheatsheet"
 parent: "Advanced Kotlin"
+nav_order: 10
 ---
 
 This **Kotlin Interview Master Cheat Sheet** is designed to give you the highest-value information in the shortest possible time. Use this for a "final scan" 30 minutes before your interview.

@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Data Repository"
-parent: "Architecture (MVVM/MVI/Clean): Phase 2: The Blueprint – Implementing Clean Architecture"
+parent: "Phase 2: The Blueprint – Implementing Clean Architecture"
 nav_order: 2
-grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **The Data Layer & Repository Pattern**.

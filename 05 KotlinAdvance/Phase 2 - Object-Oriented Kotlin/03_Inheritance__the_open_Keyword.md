@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Inheritance & the open Keyword"
-parent: "Advanced Kotlin: Phase 2   Object Oriented Kotlin"
+parent: "Phase 2: Object-Oriented Kotlin"
 nav_order: 3
-grand_parent: Advanced Kotlin
 ---
 
 ﻿---

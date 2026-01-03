@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Scenario Shared Viewmodels"
-parent: "ViewModel Internals: Phase 5   Real World Interview Scenarios"
+parent: "Phase 5: Real World Interview Scenarios"
 nav_order: 2
-grand_parent: ViewModel Internals
 ---
 
 Here are your detailed notes for the second topic of Phase 5.

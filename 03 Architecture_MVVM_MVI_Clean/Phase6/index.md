@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Architecture (MVVM/MVI/Clean): Phase 6: with the topic: \"Refactoring Bloated ViewModels\"?"
+title: "Phase 6: Advanced MVVM Scenarios"
 parent: "Architecture (MVVM/MVI/Clean)"
 has_children: true
+nav_order: 6
 ---
 
 # Phase6

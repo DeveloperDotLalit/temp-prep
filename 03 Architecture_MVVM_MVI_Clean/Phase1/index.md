@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Architecture (MVVM/MVI/Clean): Phase 1: \"The Problem: God Activities & Tight Coupling\"?"
+title: "Phase 1: The Foundation – Why We Need Architecture"
 parent: "Architecture (MVVM/MVI/Clean)"
 has_children: true
+nav_order: 1
 ---
 
 # Phase1

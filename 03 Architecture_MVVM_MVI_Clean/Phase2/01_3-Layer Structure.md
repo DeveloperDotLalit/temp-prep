@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "3 Layer Structure"
-parent: "Architecture (MVVM/MVI/Clean): Phase 2: The Blueprint – Implementing Clean Architecture"
+parent: "Phase 2: The Blueprint – Implementing Clean Architecture"
 nav_order: 1
-grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **The 3-Layer Structure (Presentation, Domain, Data)**.

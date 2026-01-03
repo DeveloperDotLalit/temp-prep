@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Flow Basics"
-parent: "Advanced Kotlin: Phase 5   Advanced Topics"
+parent: "Phase 5: Advanced Topics & Asynchronous Programming"
 nav_order: 6
-grand_parent: Advanced Kotlin
 ---
 
 ﻿---

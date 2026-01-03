@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Godactivity"
-parent: "Architecture (MVVM/MVI/Clean): Phase 1: \"The Problem: God Activities & Tight Coupling\"?"
+parent: "Phase 1: The Foundation – Why We Need Architecture"
 nav_order: 1
-grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **God Activities & Tight Coupling**.

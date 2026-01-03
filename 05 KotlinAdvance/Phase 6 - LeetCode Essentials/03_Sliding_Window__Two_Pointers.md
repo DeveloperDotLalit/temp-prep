@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Sliding Window & Two Pointers"
-parent: "Advanced Kotlin: Phase 6   Leetcode Essentials"
+parent: "Phase 6: LeetCode Essentials"
 nav_order: 3
-grand_parent: Advanced Kotlin
 ---
 
 ﻿---

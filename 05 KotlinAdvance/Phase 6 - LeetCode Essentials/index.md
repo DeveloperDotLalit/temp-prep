@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Advanced Kotlin: Phase 6   Leetcode Essentials"
+title: "Phase 6: LeetCode Essentials"
 parent: "Advanced Kotlin"
 has_children: true
+nav_order: 6
 ---
 
 # Phase 6   Leetcode Essentials

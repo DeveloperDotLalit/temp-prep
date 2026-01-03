@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Collection Operations"
-parent: "Advanced Kotlin: Phase 4   Functional Programming"
+parent: "Phase 4: Functional Programming & Scoping"
 nav_order: 4
-grand_parent: Advanced Kotlin
 ---
 
 ﻿---

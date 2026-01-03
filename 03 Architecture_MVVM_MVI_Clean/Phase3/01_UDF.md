@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Udf"
-parent: "Architecture (MVVM/MVI/Clean): Phase 3: The Flow – Reactive Data & State Management"
+parent: "Phase 3: The Flow – Reactive Data & State Management"
 nav_order: 1
-grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **Unidirectional Data Flow (UDF)**.

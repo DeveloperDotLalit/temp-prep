@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "ViewModel Internals: Phase 3   Creation & Dependency Injection"
+title: "Phase 3: Creation & Dependency Injection"
 parent: "ViewModel Internals"
 has_children: true
+nav_order: 3
 ---
 
 # Phase 3   Creation & Dependency Injection

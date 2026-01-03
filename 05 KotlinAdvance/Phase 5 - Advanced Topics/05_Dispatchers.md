@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Dispatchers"
-parent: "Advanced Kotlin: Phase 5   Advanced Topics"
+parent: "Phase 5: Advanced Topics & Asynchronous Programming"
 nav_order: 5
-grand_parent: Advanced Kotlin
 ---
 
 ﻿---

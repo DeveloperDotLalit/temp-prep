@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Unittestingrepousecases"
-parent: "Architecture (MVVM/MVI/Clean): Phase 4: The Glue & The Safety Net – DI & Testing"
+parent: "Phase 4: The Glue & The Safety Net"
 nav_order: 3
-grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **Unit Testing Use Cases & Repositories**.

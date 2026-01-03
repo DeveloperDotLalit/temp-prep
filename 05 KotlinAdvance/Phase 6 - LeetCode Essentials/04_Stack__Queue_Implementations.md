@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Stack & Queue Implementations"
-parent: "Advanced Kotlin: Phase 6   Leetcode Essentials"
+parent: "Phase 6: LeetCode Essentials"
 nav_order: 4
-grand_parent: Advanced Kotlin
 ---
 
 ﻿---

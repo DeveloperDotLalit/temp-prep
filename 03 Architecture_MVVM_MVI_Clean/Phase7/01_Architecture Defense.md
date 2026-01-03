@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Architecture Defense"
-parent: "Architecture (MVVM/MVI/Clean): Phase 7: The Interview Q&A & Defense (The Final Polish)"
+parent: "Phase 7: The Interview Q&A & Defense"
 nav_order: 1
-grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **Architecture Defense (MVVM vs. MVP vs. MVC)**.

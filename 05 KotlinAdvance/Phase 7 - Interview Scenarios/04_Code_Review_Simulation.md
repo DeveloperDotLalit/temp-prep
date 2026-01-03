@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Code Review Simulation"
-parent: "Advanced Kotlin: Phase 7   Interview Scenarios"
+parent: "Phase 7: Real-World Interview Scenarios"
 nav_order: 4
-grand_parent: Advanced Kotlin
 ---
 
 ﻿---

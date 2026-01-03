@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Rapid Fire"
-parent: "Architecture (MVVM/MVI/Clean): Phase 7: The Interview Q&A & Defense (The Final Polish)"
+parent: "Phase 7: The Interview Q&A & Defense"
 nav_order: 5
-grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **Mock Interview Rapid Fire**.

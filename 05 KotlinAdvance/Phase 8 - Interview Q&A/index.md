@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Advanced Kotlin: Phase 8   Interview Q&A"
+title: "Phase 8: Interview Questions"
 parent: "Advanced Kotlin"
 has_children: true
+nav_order: 8
 ---
 
 # Phase 8   Interview Q&A

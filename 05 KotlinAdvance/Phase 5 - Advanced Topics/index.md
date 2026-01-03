@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Advanced Kotlin: Phase 5   Advanced Topics"
+title: "Phase 5: Advanced Topics & Asynchronous Programming"
 parent: "Advanced Kotlin"
 has_children: true
+nav_order: 5
 ---
 
 # Phase 5   Advanced Topics

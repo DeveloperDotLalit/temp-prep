@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Scenario Heavy Operations And Coroutines"
-parent: "ViewModel Internals: Phase 5   Real World Interview Scenarios"
+parent: "Phase 5: Real World Interview Scenarios"
 nav_order: 4
-grand_parent: ViewModel Internals
 ---
 
 Here are your detailed notes for the final topic of Phase 5.

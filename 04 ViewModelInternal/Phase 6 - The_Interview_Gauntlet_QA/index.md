@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "ViewModel Internals: Phase 6   The Interview Gauntlet Qa"
+title: "Phase 6: The Interview Gauntlet"
 parent: "ViewModel Internals"
 has_children: true
+nav_order: 6
 ---
 
 # Phase 6   The Interview Gauntlet Qa

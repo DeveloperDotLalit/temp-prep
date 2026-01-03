@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Advanced Kotlin: Phase 1   The Foundation (Building Blocks)"
+title: "Phase 1: The Foundation"
 parent: "Advanced Kotlin"
 has_children: true
+nav_order: 1
 ---
 
 # Phase 1   The Foundation (Building Blocks)

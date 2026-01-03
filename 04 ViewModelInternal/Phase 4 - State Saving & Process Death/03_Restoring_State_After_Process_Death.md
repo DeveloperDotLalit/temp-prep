@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Restoring State After Process Death"
-parent: "ViewModel Internals: Phase 4   State Saving & Process Death"
+parent: "Phase 4: State Saving & Process Death"
 nav_order: 3
-grand_parent: ViewModel Internals
 ---
 
 Here are your detailed notes for the final topic of Phase 4.

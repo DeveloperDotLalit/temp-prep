@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Cheatsheet"
-parent: "ViewModel"
+parent: "ViewModel Internals"
+nav_order: 9
 ---
 
 Here is your **Master Cheat Sheet** for Android ViewModel Internals. This condenses everything we have covered into a single, high-density reference guide.

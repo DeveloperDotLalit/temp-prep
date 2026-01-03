@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Advanced Kotlin: Phase 2   Object Oriented Kotlin"
+title: "Phase 2: Object-Oriented Kotlin"
 parent: "Advanced Kotlin"
 has_children: true
+nav_order: 2
 ---
 
 # Phase 2   Object Oriented Kotlin

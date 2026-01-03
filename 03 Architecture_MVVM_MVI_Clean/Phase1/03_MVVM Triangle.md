@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Mvvm Triangle"
-parent: "Architecture (MVVM/MVI/Clean): Phase 1: \"The Problem: God Activities & Tight Coupling\"?"
+parent: "Phase 1: The Foundation – Why We Need Architecture"
 nav_order: 3
-grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **The MVVM Triangle (Model - View - ViewModel)**.

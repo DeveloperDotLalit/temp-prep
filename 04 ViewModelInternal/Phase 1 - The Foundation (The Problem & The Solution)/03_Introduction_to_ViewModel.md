@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Introduction To Viewmodel"
-parent: "ViewModel Internals: Phase 1   The Foundation (The Problem & The Solution)"
+parent: "Phase 1: The Foundation"
 nav_order: 3
-grand_parent: ViewModel Internals
 ---
 
 Here are your detailed notes for the third topic of Phase 1.

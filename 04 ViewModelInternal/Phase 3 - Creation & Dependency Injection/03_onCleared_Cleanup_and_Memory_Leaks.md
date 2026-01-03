@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Oncleared Cleanup And Memory Leaks"
-parent: "ViewModel Internals: Phase 3   Creation & Dependency Injection"
+parent: "Phase 3: Creation & Dependency Injection"
 nav_order: 3
-grand_parent: ViewModel Internals
 ---
 
 Here are your detailed notes for the third topic of Phase 3.

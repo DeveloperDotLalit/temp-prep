@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Loops & Ranges"
-parent: "Advanced Kotlin: Phase 1   The Foundation (Building Blocks)"
+parent: "Phase 1: The Foundation"
 nav_order: 5
-grand_parent: Advanced Kotlin
 ---
 
 ﻿---

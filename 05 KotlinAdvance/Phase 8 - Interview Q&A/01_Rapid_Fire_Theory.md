@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Rapid Fire Theory"
-parent: "Advanced Kotlin: Phase 8   Interview Q&A"
+parent: "Phase 8: Interview Questions"
 nav_order: 1
-grand_parent: Advanced Kotlin
 ---
 
 ﻿---

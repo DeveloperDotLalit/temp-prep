@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Data Classes"
-parent: "Advanced Kotlin: Phase 3   The Kotlin Way"
+parent: "Phase 3: The Kotlin Way"
 nav_order: 2
-grand_parent: Advanced Kotlin
 ---
 
 ﻿---

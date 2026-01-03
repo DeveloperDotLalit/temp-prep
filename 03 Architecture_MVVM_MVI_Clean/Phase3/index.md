@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Architecture (MVVM/MVI/Clean): Phase 3: The Flow – Reactive Data & State Management"
+title: "Phase 3: The Flow – Reactive Data & State Management"
 parent: "Architecture (MVVM/MVI/Clean)"
 has_children: true
+nav_order: 3
 ---
 
 # Phase3

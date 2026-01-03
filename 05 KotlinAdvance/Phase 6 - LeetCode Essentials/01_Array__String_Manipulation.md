@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Array & String Manipulation"
-parent: "Advanced Kotlin: Phase 6   Leetcode Essentials"
+parent: "Phase 6: LeetCode Essentials"
 nav_order: 1
-grand_parent: Advanced Kotlin
 ---
 
 ﻿---

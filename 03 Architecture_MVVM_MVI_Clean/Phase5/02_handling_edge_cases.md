@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Handling Edge Cases"
-parent: "Architecture (MVVM/MVI/Clean): Phase 5: Interview Edge – Trade-offs & Best Practices"
+parent: "Phase 5: Interview Edge"
 nav_order: 2
-grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **Handling Edge Cases**.

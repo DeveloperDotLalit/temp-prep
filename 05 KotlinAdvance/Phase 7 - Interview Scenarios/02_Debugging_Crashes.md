@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Debugging Crashes"
-parent: "Advanced Kotlin: Phase 7   Interview Scenarios"
+parent: "Phase 7: Real-World Interview Scenarios"
 nav_order: 2
-grand_parent: Advanced Kotlin
 ---
 
 ﻿---

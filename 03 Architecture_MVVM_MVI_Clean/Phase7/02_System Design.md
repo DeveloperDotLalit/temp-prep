@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "System Design"
-parent: "Architecture (MVVM/MVI/Clean): Phase 7: The Interview Q&A & Defense (The Final Polish)"
+parent: "Phase 7: The Interview Q&A & Defense"
 nav_order: 2
-grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **System Design: "Design a Search Screen"**.

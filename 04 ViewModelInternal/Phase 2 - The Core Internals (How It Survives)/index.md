@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "ViewModel Internals: Phase 2   The Core Internals (How It Survives)"
+title: "Phase 2: The Core Internals"
 parent: "ViewModel Internals"
 has_children: true
+nav_order: 2
 ---
 
 # Phase 2   The Core Internals (How It Survives)

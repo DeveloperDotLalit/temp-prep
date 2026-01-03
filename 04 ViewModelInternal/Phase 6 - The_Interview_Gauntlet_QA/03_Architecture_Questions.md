@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Architecture Questions"
-parent: "ViewModel Internals: Phase 6   The Interview Gauntlet Qa"
+parent: "Phase 6: The Interview Gauntlet"
 nav_order: 3
-grand_parent: ViewModel Internals
 ---
 
 Here are your detailed notes for the final topic of Phase 6.

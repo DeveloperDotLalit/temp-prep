@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Unittestingvm"
-parent: "Architecture (MVVM/MVI/Clean): Phase 4: The Glue & The Safety Net – DI & Testing"
+parent: "Phase 4: The Glue & The Safety Net"
 nav_order: 2
-grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **Unit Testing the ViewModel**.

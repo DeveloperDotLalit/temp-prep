@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Externalsdk Sensors"
-parent: "Architecture (MVVM/MVI/Clean): Phase 7: The Interview Q&A & Defense (The Final Polish)"
+parent: "Phase 7: The Interview Q&A & Defense"
 nav_order: 6
-grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here is the final set of notes focusing on **Integration Strategy**.

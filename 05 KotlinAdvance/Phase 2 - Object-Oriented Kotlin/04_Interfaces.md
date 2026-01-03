@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Interfaces"
-parent: "Advanced Kotlin: Phase 2   Object Oriented Kotlin"
+parent: "Phase 2: Object-Oriented Kotlin"
 nav_order: 4
-grand_parent: Advanced Kotlin
 ---
 
 ﻿---

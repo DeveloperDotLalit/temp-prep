@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Basic Functions & Unit"
-parent: "Advanced Kotlin: Phase 1   The Foundation (Building Blocks)"
+parent: "Phase 1: The Foundation"
 nav_order: 6
-grand_parent: Advanced Kotlin
 ---
 
 ﻿---

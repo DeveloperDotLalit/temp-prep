@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Domain Usecases"
-parent: "Architecture (MVVM/MVI/Clean): Phase 2: The Blueprint – Implementing Clean Architecture"
+parent: "Phase 2: The Blueprint – Implementing Clean Architecture"
 nav_order: 3
-grand_parent: Architecture (MVVM/MVI/Clean)
 ---
 
 Here are your focused notes on **The Domain Layer & Use Cases**.
