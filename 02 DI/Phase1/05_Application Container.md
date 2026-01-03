@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Phase 1: The Fundamentals – Topic 5: The Application Container & Scoping"
-parent: "Dependency Injection: Phase 1: The Fundamentals"
+title: "The Application Container & Scoping"
+parent: "Phase 1: The Fundamentals (Manual DI)"
 nav_order: 5
-grand_parent: Dependency Injection
+grand_parent: "Dependency Injection"
 ---
 
 Here are the detailed notes for the final topic of Phase 1, strictly adhering to the "Book Style" format and the revised interview summary structure.

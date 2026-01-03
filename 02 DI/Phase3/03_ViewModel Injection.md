@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Phase 3: Hilt – Topic 3: ViewModel Injection (@HiltViewModel)"
-parent: "Dependency Injection: Phase 3: Hilt - The Android Standard (The Solution)"
+title: "ViewModel Injection (@HiltViewModel)"
+parent: "Phase 3: Hilt - The Android Standard"
 nav_order: 3
-grand_parent: Dependency Injection
+grand_parent: "Dependency Injection"
 ---
 
 Here are the detailed notes for the third topic of Phase 3, strictly adhering to the "Book Style" format and the interview summary structure.

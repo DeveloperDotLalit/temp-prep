@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Phase 1: The Fundamentals – Topic 2: Inversion of Control (IoC)"
-parent: "Dependency Injection: Phase 1: The Fundamentals"
+title: "Inversion of Control (IoC)"
+parent: "Phase 1: The Fundamentals (Manual DI)"
 nav_order: 2
-grand_parent: Dependency Injection
+grand_parent: "Dependency Injection"
 ---
 
 Here are the detailed notes for the second topic of Phase 1, strictly adhering to the "Book Style" format and the revised interview summary structure.

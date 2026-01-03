@@ -2,6 +2,7 @@
 layout: default
 title: "🏆 Master Cheatsheet: Dependency Injection (Zero to Elite)"
 parent: "Dependency Injection"
+nav_order: 6
 ---
 
 Here is your **Master Cheatsheet** for Dependency Injection in Android. This document aggregates the "Elite" interview responses and critical syntax patterns for rapid revision.

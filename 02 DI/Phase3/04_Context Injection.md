@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Phase 3: Hilt – Topic 4: Context Injection (@ApplicationContext & @ActivityContext)"
-parent: "Dependency Injection: Phase 3: Hilt - The Android Standard (The Solution)"
+title: "Context Injection (@ApplicationContext & @ActivityContext)"
+parent: "Phase 3: Hilt - The Android Standard"
 nav_order: 4
-grand_parent: Dependency Injection
+grand_parent: "Dependency Injection"
 ---
 
 Here are the detailed notes for the fourth topic of Phase 3, strictly adhering to the "Book Style" format and the interview summary structure.

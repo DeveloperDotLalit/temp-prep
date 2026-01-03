@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Phase 1: The Fundamentals – Topic 4: Field Injection & Framework Classes"
-parent: "Dependency Injection: Phase 1: The Fundamentals"
+title: "Field Injection & Framework Classes"
+parent: "Phase 1: The Fundamentals (Manual DI)"
 nav_order: 4
-grand_parent: Dependency Injection
+grand_parent: "Dependency Injection"
 ---
 
 Here are the detailed notes for the fourth topic of Phase 1, strictly adhering to the "Book Style" format and the revised interview summary structure.

@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Dependency Injection: Phase 4: Elite Scenarios & Architecture"
+title: "Phase 4: Elite Scenarios & Architecture"
 parent: "Dependency Injection"
 has_children: true
+nav_order: 4
 ---
 
 # Phase4

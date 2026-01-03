@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Phase 2: Dagger 2 – Topic 4: Scoping & The @Singleton Annotation"
-parent: "Dependency Injection: Phase 2: Dagger 2 - The Engine (The Hard Part)"
+title: "Scoping & The @Singleton Annotation"
+parent: "Phase 2: Dagger 2 - The Engine"
 nav_order: 4
-grand_parent: Dependency Injection
+grand_parent: "Dependency Injection"
 ---
 
 Here are the detailed notes for the fourth topic of Phase 2, strictly adhering to the "Book Style" format and the interview summary structure.

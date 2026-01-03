@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Phase 2: Dagger 2 – Topic 2: Implementing @Component and @Inject"
-parent: "Dependency Injection: Phase 2: Dagger 2 - The Engine (The Hard Part)"
+title: "Implementing @Component and @Inject"
+parent: "Phase 2: Dagger 2 - The Engine"
 nav_order: 2
-grand_parent: Dependency Injection
+grand_parent: "Dependency Injection"
 ---
 
 Here are the detailed notes for the second topic of Phase 2, strictly adhering to the "Book Style" format and the interview summary structure.

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Phase 1: The Fundamentals – Topic 1: The \"Why\" (Tight vs. Loose Coupling)"
-parent: "Dependency Injection: Phase 1: The Fundamentals"
+title: "The Why (Tight vs. Loose Coupling)"
+parent: "Phase 1: The Fundamentals (Manual DI)"
 nav_order: 1
-grand_parent: Dependency Injection
+grand_parent: "Dependency Injection"
 ---
 
 Here are the refined notes for the first topic, crafted in the detailed "Book Style" format we agreed upon.

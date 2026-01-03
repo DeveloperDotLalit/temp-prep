@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Phase 1: The Fundamentals – Topic 3: Manual Constructor Injection"
-parent: "Dependency Injection: Phase 1: The Fundamentals"
+title: "anual Constructor Injection"
+parent: "Phase 1: The Fundamentals (Manual DI)"
 nav_order: 3
-grand_parent: Dependency Injection
+grand_parent: "Dependency Injection"
 ---
 
 Here are the detailed notes for the third topic of Phase 1, strictly adhering to the "Book Style" format and the revised interview summary structure.

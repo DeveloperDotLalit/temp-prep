@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Dependency Injection: Phase 1: The Fundamentals"
+title: "Phase 1: The Fundamentals (Manual DI)"
+nav_order: 1
 parent: "Dependency Injection"
 has_children: true
 ---

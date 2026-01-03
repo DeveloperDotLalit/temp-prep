@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Phase 3: Hilt – Topic 2: Standard Components & Hierarchy"
-parent: "Dependency Injection: Phase 3: Hilt - The Android Standard (The Solution)"
+title: "Standard Components & Hierarchy"
+parent: "Phase 3: Hilt - The Android Standard"
 nav_order: 2
-grand_parent: Dependency Injection
+grand_parent: "Dependency Injection"
 ---
 
 Here are the detailed notes for the second topic of Phase 3, strictly adhering to the "Book Style" format and the interview summary structure.

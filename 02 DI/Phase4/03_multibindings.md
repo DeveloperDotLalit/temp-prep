@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Phase 4: Elite Architecture – Topic 1: Multibindings (Plugin Architecture)"
-parent: "Dependency Injection: Phase 4: Elite Scenarios & Architecture"
+title: "Multibindings (Plugin Architecture)"
+parent: "Phase 4: Elite Scenarios & Architecture"
 nav_order: 3
-grand_parent: Dependency Injection
+grand_parent: "Dependency Injection"
 ---
 
 Here are the detailed notes for the first topic of Phase 4, strictly adhering to the "Book Style" format and the interview summary structure.

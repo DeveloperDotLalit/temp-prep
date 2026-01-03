@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Dependency Injection: Phase 3: Hilt - The Android Standard (The Solution)"
+title: "Phase 3: Hilt - The Android Standard"
 parent: "Dependency Injection"
 has_children: true
+nav_order: 3
 ---
 
 # Phase3
