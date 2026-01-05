@@ -1,6 +1,6 @@
 ﻿---
 layout: default
-title: Layout Primitives: Column, Row, Box
+title: "Layout Primitives: Column, Row, Box"
 parent: 1. Introduction + Basic Composables
 nav_order: 8
 ---

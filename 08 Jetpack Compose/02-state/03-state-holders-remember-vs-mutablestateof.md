@@ -1,6 +1,6 @@
 ﻿---
 layout: default
-title: State Holders: remember vs mutableStateOf
+title: "State Holders: remember vs mutableStateOf"
 parent: 2. State & Recomposition (The Core)
 nav_order: 3
 ---
