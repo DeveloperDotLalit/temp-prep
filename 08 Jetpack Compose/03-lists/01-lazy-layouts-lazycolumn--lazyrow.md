@@ -1,7 +1,7 @@
 ﻿---
 layout: default
-title: Lazy Layouts: LazyColumn / LazyRow
-parent: 3. Lists, Grids & UI Enhancements
+title: "Lazy Layouts: LazyColumn / LazyRow"
+parent: "3. Lists, Grids & UI Enhancements"
 nav_order: 1
 ---
 

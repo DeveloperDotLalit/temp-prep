@@ -1,7 +1,7 @@
 ﻿---
 layout: default
-title: Dialogs & Popups
-parent: 3. Lists, Grids & UI Enhancements
+title: "Dialogs & Popups"
+parent: "3. Lists, Grids & UI Enhancements"
 nav_order: 7
 ---
 

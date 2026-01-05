@@ -1,7 +1,7 @@
 ﻿---
 layout: default
-title: Efficient Item Keys
-parent: 3. Lists, Grids & UI Enhancements
+title: "Efficient Item Keys"
+parent: "3. Lists, Grids & UI Enhancements"
 nav_order: 2
 ---
 

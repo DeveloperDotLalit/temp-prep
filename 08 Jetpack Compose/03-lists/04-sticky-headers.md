@@ -1,7 +1,7 @@
 ﻿---
 layout: default
-title: Sticky Headers
-parent: 3. Lists, Grids & UI Enhancements
+title: "Sticky Headers"
+parent: "3. Lists, Grids & UI Enhancements"
 nav_order: 4
 ---
 

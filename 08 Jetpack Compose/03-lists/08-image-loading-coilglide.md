@@ -1,7 +1,7 @@
 ﻿---
 layout: default
-title: Image Loading (Coil/Glide)
-parent: 3. Lists, Grids & UI Enhancements
+title: "Image Loading (Coil/Glide)"
+parent: "3. Lists, Grids & UI Enhancements"
 nav_order: 8
 ---
 
