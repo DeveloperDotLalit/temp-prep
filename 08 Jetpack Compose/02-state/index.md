@@ -3,7 +3,6 @@ layout: default
 title: 2. State & Recomposition (The Core)
 nav_order: 2
 has_children: true
-permalink: /state/
 ---
 
 # 2. State & Recomposition (The Core)

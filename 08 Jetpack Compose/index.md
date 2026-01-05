@@ -3,7 +3,6 @@ layout: default
 title: Jetpack Compose Masterclass
 nav_order: 9
 has_children: true
-permalink: /
 ---
 
 # Jetpack Compose Masterclass: Zero to Hero
